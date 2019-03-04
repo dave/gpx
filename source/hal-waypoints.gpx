@@ -1,0 +1,1450 @@
+<gpx>
+<wpt lat="27.567365979775786" lon="87.857638020068407">
+	<ele>2395.4699999999998</ele>
+	<name>S1-Amjilosa-RB</name>
+</wpt>
+<wpt lat="27.489233650267124" lon="87.744748871773481">
+	<ele></ele>
+	<name>S1-Chiruwa-RB</name>
+</wpt>
+<wpt lat="27.659970000386238" lon="87.934490013867617">
+	<ele>3373</ele>
+	<name>S1-Ghunsa-RB</name>
+</wpt>
+<wpt lat="27.614549975842237" lon="87.874030005186796">
+	<ele>2615</ele>
+	<name>S1-Gyabla-RB</name>
+</wpt>
+<wpt lat="27.584970993921161" lon="87.797955013811588">
+	<ele>2003.26</ele>
+	<name>S1-Illadada-RB</name>
+</wpt>
+<wpt lat="27.534567005932331" lon="87.804911993443966">
+	<ele>1599.0899999999999</ele>
+	<name>S1-Jongdi-RB</name>
+</wpt>
+<wpt lat="27.656530989333987" lon="87.91962998919189">
+	<ele>3167.0900000000001</ele>
+	<name>S1-Junction-RB</name>
+</wpt>
+<wpt lat="27.549269031733274" lon="87.827106015756726">
+	<ele>1759.0799999999999</ele>
+	<name>S1-Junction1-RB</name>
+</wpt>
+<wpt lat="27.800210975110531" lon="88.132323967292905">
+	<ele>0</ele>
+	<name>S1-Kanchenjunga-RB</name>
+</wpt>
+<wpt lat="27.736959960311651" lon="87.971640033647418">
+	<ele>4084</ele>
+	<name>S1-Kangbachen-RB</name>
+</wpt>
+<wpt lat="27.553023034706712" lon="87.84099499695003">
+	<ele>1880.21</ele>
+	<name>S1-Lamatha-RB</name>
+</wpt>
+<wpt lat="27.765583992004395" lon="87.999278018251061">
+	<ele>4285.8599999999997</ele>
+	<name>S1-Landslide-RB</name>
+</wpt>
+<wpt lat="27.527502989396453" lon="87.798785995692015">
+	<ele>1693.72</ele>
+	<name>S1-Lelep-RB</name>
+</wpt>
+<wpt lat="27.790010031312704" lon="88.034719973802567">
+	<ele>4757</ele>
+	<name>S1-Lhonak-RB</name>
+</wpt>
+<wpt lat="27.562347985804081" lon="87.798060039058328">
+	<ele>1771.0999999999999</ele>
+	<name>S1-Lungthun-RB</name>
+</wpt>
+<wpt lat="27.421039994806051" lon="87.718259962275624">
+	<ele>1519</ele>
+	<name>S1-Mayamgaon-RB</name>
+</wpt>
+<wpt lat="27.371548963710666" lon="87.716457014903426">
+	<ele>2162.2600000000002</ele>
+	<name>S1-Mukulung-RB</name>
+</wpt>
+<wpt lat="27.653083009645343" lon="87.917841039597988">
+	<ele>3251.8699999999999</ele>
+	<name>S1-Olangchu-RB</name>
+</wpt>
+<wpt lat="27.509323982521892" lon="87.793421996757388">
+	<ele>1510.1099999999999</ele>
+	<name>S1-Pembu-RB</name>
+</wpt>
+<wpt lat="27.641291012987494" lon="87.917902981862426">
+	<ele>3240.46</ele>
+	<name>S1-Phale-RB</name>
+</wpt>
+<wpt lat="27.405835976824164" lon="87.71176096983254">
+	<ele>1838.45</ele>
+	<name>S1-Purum-RB</name>
+</wpt>
+<wpt lat="27.536129979416728" lon="87.80795001424849">
+	<ele>1576</ele>
+	<name>S1-Seketum-RB</name>
+</wpt>
+<wpt lat="27.444511000066996" lon="87.702916972339153">
+	<ele>978.01999999999998</ele>
+	<name>S1-Sinwa-RB</name>
+</wpt>
+<wpt lat="27.351259980350733" lon="87.695490019395947">
+	<ele>2387</ele>
+	<name>S1-Suketar-RB</name>
+</wpt>
+<wpt lat="27.349948883056641" lon="87.666606903076172">
+	<ele></ele>
+	<name>S1-Taplejung-RB</name>
+</wpt>
+<wpt lat="27.491490980610251" lon="87.771693002432585">
+	<ele>1333.95</ele>
+	<name>S1-Thaplethok-RB</name>
+</wpt>
+<wpt lat="27.710900036618114" lon="87.711450001224875">
+	<ele>4016.72363</ele>
+	<name>S2-Campsite2-RB</name>
+</wpt>
+<wpt lat="27.704354021698236" lon="87.745236027985811">
+	<ele>3496.6900000000001</ele>
+	<name>S2-AboveRiver-RB</name>
+</wpt>
+<wpt lat="27.665548995137215" lon="87.794933002442122">
+	<ele>2654.0700000000002</ele>
+	<name>S2-Bridge-RB</name>
+</wpt>
+<wpt lat="27.714871969074011" lon="87.735735978931189">
+	<ele>3726.7600000000002</ele>
+	<name>S2-Bridge2-RB</name>
+</wpt>
+<wpt lat="27.731717750430107" lon="87.689361423254013">
+	<ele></ele>
+	<name>S2-Camp-SW</name>
+</wpt>
+<wpt lat="27.74038321338594" lon="87.631972208619118">
+	<ele></ele>
+	<name>S2-CampKharka-SW</name>
+</wpt>
+<wpt lat="27.69978797994554" lon="87.852584989741445">
+	<ele>3734.3400000000001</ele>
+	<name>S2-Campsite-RB</name>
+</wpt>
+<wpt lat="27.710900036618114" lon="87.711450001224875">
+	<ele>4016.72363</ele>
+	<name>S2-Campsite2-RB</name>
+</wpt>
+<wpt lat="27.73457002826035" lon="87.692609997466207">
+	<ele>4452.9184599999999</ele>
+	<name>S2-Campsite3-RB</name>
+</wpt>
+<wpt lat="27.747624004259706" lon="87.622753037139773">
+	<ele>4554.4799999999996</ele>
+	<name>S2-Campsite4-RB</name>
+</wpt>
+<wpt lat="27.751840017735958" lon="87.614649999886751">
+	<ele>4463</ele>
+	<name>S2-Campsite5-RB</name>
+</wpt>
+<wpt lat="27.664232030510902" lon="87.793761966750026">
+	<ele>2783.21</ele>
+	<name>S2-Catfish-RB</name>
+</wpt>
+<wpt lat="27.701250035315752" lon="87.889280039817095">
+	<ele>4402</ele>
+	<name>S2-Dharamsala-RB</name>
+</wpt>
+<wpt lat="27.659970000386238" lon="87.934490013867617">
+	<ele>3373</ele>
+	<name>S2-Ghunsa-RB1</name>
+</wpt>
+<wpt lat="27.66845902428031" lon="87.898861980065703">
+	<ele>4159.7200000000003</ele>
+	<name>S2-HighCamp-RB</name>
+</wpt>
+<wpt lat="27.75388402864337" lon="87.611063970252872">
+	<ele>4401.0600000000004</ele>
+	<name>S2-HimalView-RB</name>
+</wpt>
+<wpt lat="27.656530989333987" lon="87.91962998919189">
+	<ele>3167.0900000000001</ele>
+	<name>S2-Junction-RB1</name>
+</wpt>
+<wpt lat="27.692110994830728" lon="87.824507961049676">
+	<ele>3121.4299999999998</ele>
+	<name>S2-Landslide-RB</name>
+</wpt>
+<wpt lat="27.765583992004395" lon="87.999278018251061">
+	<ele>4285.8599999999997</ele>
+	<name>S2-Landslide-RB1</name>
+</wpt>
+<wpt lat="27.710014991462231" lon="87.712194984778762">
+	<ele>4011.98</ele>
+	<name>S2-Langmale-RB</name>
+</wpt>
+<wpt lat="27.790010031312704" lon="88.034719973802567">
+	<ele>4757</ele>
+	<name>S2-Lhonak-RB1</name>
+</wpt>
+<wpt lat="27.684889985248446" lon="87.887843968346715">
+	<ele>4779.5200000000004</ele>
+	<name>S2-NangoLa-RB</name>
+</wpt>
+<wpt lat="27.653083009645343" lon="87.917841039597988">
+	<ele>3251.8699999999999</ele>
+	<name>S2-Olangchu-RB1</name>
+</wpt>
+<wpt lat="27.680129986256361" lon="87.77860002592206">
+	<ele>3191</ele>
+	<name>S2-OlangchunGola_RB</name>
+</wpt>
+<wpt lat="27.743105990812182" lon="87.67523598857224">
+	<ele>4591.9799999999996</ele>
+	<name>S2-OnLinks-RB</name>
+</wpt>
+<wpt lat="27.712125973775983" lon="87.730101998895407">
+	<ele>3800.6399999999999</ele>
+	<name>S2-OtherRiver-RB</name>
+</wpt>
+<wpt lat="27.741494989022613" lon="87.670005010440946">
+	<ele>4743.96</ele>
+	<name>S2-PassCamp-RB</name>
+</wpt>
+<wpt lat="27.743369014933705" lon="87.680064970627427">
+	<ele>4530.9499999999998</ele>
+	<name>S2-Plateau-RB</name>
+</wpt>
+<wpt lat="27.735035978257656" lon="87.657988965511322">
+	<ele>5073.4200000000001</ele>
+	<name>S2-RidgePassRB</name>
+</wpt>
+<wpt lat="27.67587399110198" lon="87.88791798055172">
+	<ele>4169.6199999999999</ele>
+	<name>S2-Rise-RB</name>
+</wpt>
+<wpt lat="27.761451965197921" lon="87.578527014702559">
+	<ele>3961.46</ele>
+	<name>S2-Samne-RB</name>
+</wpt>
+<wpt lat="27.73616099730134" lon="87.689568037167192">
+	<ele>4440.4799999999996</ele>
+	<name>S2-Tangimp-RB</name>
+</wpt>
+<wpt lat="27.757160011678934" lon="87.548040021210909">
+	<ele>3556</ele>
+	<name>S2-Thudam-RB</name>
+</wpt>
+<wpt lat="27.66959804110229" lon="87.802730016410351">
+	<ele>2919.02</ele>
+	<name>S2-Top-RB</name>
+</wpt>
+<wpt lat="27.712819995358586" lon="87.735099960118532">
+	<ele>3712.2280300000002</ele>
+	<name>S2-Waypoint-RB</name>
+</wpt>
+<wpt lat="27.715822979807854" lon="87.704747999086976">
+	<ele>4093.0999999999999</ele>
+	<name>S2-Waypoint3-RB</name>
+</wpt>
+<wpt lat="27.722379975020885" lon="87.699200017377734">
+	<ele>4212.1098599999996</ele>
+	<name>S2-Waypoint4-RB</name>
+</wpt>
+<wpt lat="27.711413009092212" lon="87.83820197917521">
+	<ele>3360.8699999999999</ele>
+	<name>S2-YangmaKholaBridge-RB</name>
+</wpt>
+<wpt lat="27.810473022982478" lon="87.340434025973082">
+	<ele>3857.7600000000002</ele>
+	<name>S3-AnotherPassChen-RB</name>
+</wpt>
+<wpt lat="27.812466993927956" lon="87.373125040903687">
+	<ele>3737.0300000000002</ele>
+	<name>S3-BackIn-RB</name>
+</wpt>
+<wpt lat="27.812556009739637" lon="87.337361974641681">
+	<ele>3845.9899999999998</ele>
+	<name>S3-CrossroadsHongKong-RB</name>
+</wpt>
+<wpt lat="27.812573025003076" lon="87.368627982214093">
+	<ele>3848.1799999999998</ele>
+	<name>S3-DownRB</name>
+</wpt>
+<wpt lat="27.809805991128087" lon="87.348418040201068">
+	<ele>3823.0500000000002</ele>
+	<name>S3-MiniPass-RB</name>
+</wpt>
+<wpt lat="27.813780019059777" lon="87.335070027038455">
+	<ele>3971.3017599999998</ele>
+	<name>S3-Molun-Pokhari-RB</name>
+</wpt>
+<wpt lat="27.811447000131011" lon="87.32999000698328">
+	<ele>3964.6599999999999</ele>
+	<name>S3-OutOfValley-RB</name>
+</wpt>
+<wpt lat="27.814126024022698" lon="87.360092019662261">
+	<ele>3904.1199999999999</ele>
+	<name>S3-Weider-Oben-RB</name>
+</wpt>
+<wpt lat="27.815867029130459" lon="87.332722004503012">
+	<ele>3945.5100000000002</ele>
+	<name>S3Campsite-RB</name>
+</wpt>
+<wpt lat="27.743389969691634" lon="87.218429977074265">
+	<ele>4456.5234399999999</ele>
+	<name>S3-AnotherPass-RB</name>
+</wpt>
+<wpt lat="27.784392982721329" lon="87.41208697669208">
+	<ele>3514.3899999999999</ele>
+	<name>S3-Around-Corner-RB</name>
+</wpt>
+<wpt lat="27.731750020757318" lon="87.197261983528733">
+	<ele>3397.8899999999999</ele>
+	<name>S3-Bach-RB</name>
+</wpt>
+<wpt lat="27.813859982416034" lon="87.295789998024702">
+	<ele>3604.8022500000002</ele>
+	<name>S3-Campsite-01-RB</name>
+</wpt>
+<wpt lat="27.759739961475134" lon="87.238509999588132">
+	<ele>4192.16309</ele>
+	<name>S3-Campsite-02-RB</name>
+</wpt>
+<wpt lat="27.749089999124408" lon="87.206449974328279">
+	<ele>4096.5122099999999</ele>
+	<name>S3-Campsite-09-RB</name>
+</wpt>
+<wpt lat="27.783094039186835" lon="87.40132100880146">
+	<ele>3572.79</ele>
+	<name>S3-Campsite-NoWater-RB</name>
+</wpt>
+<wpt lat="27.780422978103161" lon="87.252053981646895">
+	<ele>3176.8299999999999</ele>
+	<name>S3-CaveCamp02-RB</name>
+</wpt>
+<wpt lat="27.782909972593188" lon="87.258969973772764">
+	<ele>3115.2543900000001</ele>
+	<name>S3-CaveCamping-RB</name>
+</wpt>
+<wpt lat="27.775279004126787" lon="87.438216973096132">
+	<ele>2374.1900000000001</ele>
+	<name>S3-Chorten-RB</name>
+</wpt>
+<wpt lat="27.772045433521271" lon="87.44110370054841">
+	<ele>2216</ele>
+	<name>S3-Chyamtang-RB</name>
+</wpt>
+<wpt lat="27.77507096529007" lon="87.440236005932093">
+	<ele>2316.9200000000001</ele>
+	<name>S3-FromVillage-RB</name>
+</wpt>
+<wpt lat="27.746510971337557" lon="87.206597998738289">
+	<ele>4088.1300000000001</ele>
+	<name>S3-Kharka-RB</name>
+</wpt>
+<wpt lat="27.758519975468516" lon="87.253232980147004">
+	<ele>4199</ele>
+	<name>S3-KleinerPass-RB</name>
+</wpt>
+<wpt lat="27.796425959095359" lon="87.271898975595832">
+	<ele>3024.5599999999999</ele>
+	<name>S3-LogBridge-RB</name>
+</wpt>
+<wpt lat="27.81638503074646" lon="87.300212038680911">
+	<ele>3599.5599999999999</ele>
+	<name>S3-LogBridge01-RB</name>
+</wpt>
+<wpt lat="27.751068966463208" lon="87.230100017040968">
+	<ele>4389.9899999999998</ele>
+	<name>S3-Pass-RB</name>
+</wpt>
+<wpt lat="27.808641996234655" lon="87.30876300483942">
+	<ele>3872.48</ele>
+	<name>S3-Pokhari-RB</name>
+</wpt>
+<wpt lat="27.780059035867453" lon="87.434983989223838">
+	<ele>2678.6300000000001</ele>
+	<name>S3-PrayerFlag-RB</name>
+</wpt>
+<wpt lat="27.767143025994301" lon="87.255472959950566">
+	<ele>3879.9099999999999</ele>
+	<name>S3-Ridge-RB</name>
+</wpt>
+<wpt lat="27.777257971465588" lon="87.252808017656207">
+	<ele>3376.4899999999998</ele>
+	<name>S3-Steep-2-RB</name>
+</wpt>
+<wpt lat="27.785895019769669" lon="87.407481037080288">
+	<ele>3626.29</ele>
+	<name>S3-Stonehut-Campsite-RB</name>
+</wpt>
+<wpt lat="27.810407979413867" lon="87.376644015312195">
+	<ele>3584.8000000000002</ele>
+	<name>S3-Tamuchowk-StoneHut-RB</name>
+</wpt>
+<wpt lat="27.785015003755689" lon="87.411699984222651">
+	<ele>3557.79</ele>
+	<name>S3-Trail-RB</name>
+</wpt>
+<wpt lat="27.783196968957782" lon="87.266205986961722">
+	<ele>2912.29</ele>
+	<name>S3-TreeWithHole-RB</name>
+</wpt>
+<wpt lat="27.805628031492233" lon="87.385153993964195">
+	<ele>3484.9000000000001</ele>
+	<name>S3-View-RB</name>
+</wpt>
+<wpt lat="27.779033007100224" lon="87.434733035042882">
+	<ele>2618.2399999999998</ele>
+	<name>S3-WaterTank-RB</name>
+</wpt>
+<wpt lat="27.808799995109439" lon="87.319520004093647">
+	<ele>4187.8374000000003</ele>
+	<name>S3-Waypoint037-RB</name>
+</wpt>
+<wpt lat="27.813859982416034" lon="87.295789998024702">
+	<ele>3604.8022500000002</ele>
+	<name>S3-Waypoint038-RB</name>
+</wpt>
+<wpt lat="27.808660017326474" lon="87.324649980291724">
+	<ele>4201.2954099999997</ele>
+	<name>S3-Waypoint206-RB</name>
+</wpt>
+<wpt lat="27.757339971140027" lon="87.247820030897856">
+	<ele>4207.3037100000001</ele>
+	<name>S3-Waypoint-04-RB</name>
+</wpt>
+<wpt lat="27.758600022643805" lon="87.244059992954135">
+	<ele>4253.4467800000002</ele>
+	<name>S3-Waypoint-05-RB</name>
+</wpt>
+<wpt lat="27.751033008098602" lon="87.225200962275267">
+	<ele>4321.8500000000004</ele>
+	<name>S3-Waypoint-07-RB</name>
+</wpt>
+<wpt lat="27.759710038080812" lon="87.241030018776655">
+	<ele>4134.7246100000002</ele>
+	<name>S3-Waypoint-07-RB</name>
+</wpt>
+<wpt lat="27.744495961815119" lon="87.21182000823319">
+	<ele>4234.3599999999997</ele>
+	<name>S3-Waypoint-08-RB</name>
+</wpt>
+<wpt lat="27.74095100350678" lon="87.204350978136063">
+	<ele>3958.6399999999999</ele>
+	<name>S3-Waypoint-09-RB</name>
+</wpt>
+<wpt lat="27.808660017326474" lon="87.324649980291724">
+	<ele>4201.2954099999997</ele>
+	<name>S3-Waypoint-RB</name>
+</wpt>
+<wpt lat="27.808799995109439" lon="87.319520004093647">
+	<ele>4187.8374000000003</ele>
+	<name>S3-Waypoint02-RB</name>
+</wpt>
+<wpt lat="27.766459984704852" lon="87.255099965259433">
+	<ele>3854.5029300000001</ele>
+	<name>S3-Waypoint03-RB</name>
+</wpt>
+<wpt lat="27.804982541128993" lon="86.710748411715031">
+	<ele>3440</ele>
+	<name>S3-L-Namche-DM</name>
+</wpt>
+<wpt lat="27.923586471006274" lon="86.805628873407841">
+	<ele>4620</ele>
+	<name>S3-Dughla-DM</name>
+</wpt>
+<wpt lat="27.554561030119658" lon="87.300093770027161">
+	<ele>798.73510699999997</ele>
+	<name>S3-L-Bridge-DM</name>
+</wpt>
+<wpt lat="27.462615072727203" lon="87.229255037382245">
+	<ele>1885.7375489999999</ele>
+	<name>S3-L-Chichila-DM</name>
+</wpt>
+<wpt lat="27.567416690289974" lon="87.307973429560661">
+	<ele>1180.3754879999999</ele>
+	<name>S3-L-Ghadi-DM</name>
+</wpt>
+<wpt lat="27.82307387329638" lon="86.731004454195499">
+	<ele>3550</ele>
+	<name>S3-L-Kyangjuma-DM</name>
+</wpt>
+<wpt lat="27.687360551208258" lon="86.730848886072636">
+	<ele>2840</ele>
+	<name>S3-L-LuklaDM</name>
+</wpt>
+<wpt lat="27.773750899359584" lon="86.722330190241337">
+	<ele>2873</ele>
+	<name>S3-L-MonjoSagamarthaEntry-DM</name>
+</wpt>
+<wpt lat="27.587386658415198" lon="87.271532770246267">
+	<ele>1500</ele>
+	<name>S3-L-Seduma-DM</name>
+</wpt>
+<wpt lat="27.83545570448041" lon="86.764333583414555">
+	<ele>3855</ele>
+	<name>S3-Tyangboche-DM</name>
+</wpt>
+<wpt lat="27.773227030411363" lon="87.154639000073075">
+	<ele>3654.8000000000002</ele>
+	<name>S3-AfterCaveView-RB</name>
+</wpt>
+<wpt lat="27.866716431453824" lon="86.919725351035595">
+	<ele>5845</ele>
+	<name>S3-AmphuLabsa-01-RB</name>
+</wpt>
+<wpt lat="27.868366995826364" lon="86.918294979259372">
+	<ele>5800.5</ele>
+	<name>S3-AmphuLabsa-02-RB</name>
+</wpt>
+<wpt lat="27.862599994987249" lon="86.919719986617565">
+	<ele>5526.7031200000001</ele>
+	<name>S3-AmphuLabsa-Base-Camp-RB</name>
+</wpt>
+<wpt lat="27.780939973890781" lon="87.45209002867341">
+	<ele>1848</ele>
+	<name>S3-Arun-Bridge-RB</name>
+</wpt>
+<wpt lat="27.731750020757318" lon="87.197261983528733">
+	<ele>3397.8899999999999</ele>
+	<name>S3-Bach-RB</name>
+</wpt>
+<wpt lat="27.840641001239419" lon="86.949821999296546">
+	<ele>5391.4300000000003</ele>
+	<name>S3-Barunste-RB</name>
+</wpt>
+<wpt lat="27.841896275058389" lon="86.951606087386608">
+	<ele>5440</ele>
+	<name>S3-BaruntseBaseCamp-RB</name>
+</wpt>
+<wpt lat="27.8507199883461" lon="86.990774972364306">
+	<ele>6154.9099999999999</ele>
+	<name>S3-BaruntseCamp-01-RB</name>
+</wpt>
+<wpt lat="27.733179973438382" lon="87.192043997347355">
+	<ele>3374.5700000000002</ele>
+	<name>S3-BaruntseRiverView-RB</name>
+</wpt>
+<wpt lat="27.855851976200938" lon="87.003778992220759">
+	<ele>6124.8699999999999</ele>
+	<name>S3-Below-RB</name>
+</wpt>
+<wpt lat="27.799947028979659" lon="87.116621034219861">
+	<ele>4426.8299999999999</ele>
+	<name>S3-CenterOfValley-RB</name>
+</wpt>
+<wpt lat="27.775279004126787" lon="87.438216973096132">
+	<ele>2374.1900000000001</ele>
+	<name>S3-Chorten-RB</name>
+</wpt>
+<wpt lat="27.904322007670999" lon="86.871847249567509">
+	<ele>4740</ele>
+	<name>S3-Chukhung-RB</name>
+</wpt>
+<wpt lat="27.892925972118974" lon="86.927392026409507">
+	<ele>5027.0299999999997</ele>
+	<name>S3-ChukhungGlacierLake-RB</name>
+</wpt>
+<wpt lat="27.772045433521271" lon="87.44110370054841">
+	<ele>2216</ele>
+	<name>S3-Chyamtang-RB</name>
+</wpt>
+<wpt lat="27.77507096529007" lon="87.440236005932093">
+	<ele>2316.9200000000001</ele>
+	<name>S3-FromVillage-RB</name>
+</wpt>
+<wpt lat="27.854530988261104" lon="86.939794979989529">
+	<ele>5467.5299999999997</ele>
+	<name>S3-GoloPokhari-RB</name>
+</wpt>
+<wpt lat="27.73595136590302" lon="87.338558323681355">
+	<ele>1585</ele>
+	<name>S3-Haitiya-TBD</name>
+</wpt>
+<wpt lat="27.767100026831031" lon="87.364899963140488">
+	<ele>2324.09546</ele>
+	<name>S3-Hongon-RB</name>
+</wpt>
+<wpt lat="27.858207961544394" lon="87.050628969445825">
+	<ele>5041.1700000000001</ele>
+	<name>S3-JapaneseCampe-RB</name>
+</wpt>
+<wpt lat="27.786631034687161" lon="87.456905012950301">
+	<ele>2292.5700000000002</ele>
+	<name>S3-Kinbochen-RB</name>
+</wpt>
+<wpt lat="27.696837885305285" lon="87.204831596463919">
+	<ele>4125</ele>
+	<name>S3-L-TutuLa-TBD</name>
+</wpt>
+<wpt lat="27.797460034489632" lon="87.126240022480488">
+	<ele>4444.9877900000001</ele>
+	<name>S3-Langmale-RB</name>
+</wpt>
+<wpt lat="27.835719985887408" lon="87.075960002839565">
+	<ele>4839.6059599999999</ele>
+	<name>S3-MakaluBaseCamp-RB</name>
+</wpt>
+<wpt lat="27.717297943308949" lon="87.20605468377471">
+	<ele>3540</ele>
+	<name>S3-Mumbuk-RB</name>
+</wpt>
+<wpt lat="27.846778985112906" lon="86.950307982042432">
+	<ele>5365.21</ele>
+	<name>S3-Off-RB</name>
+</wpt>
+<wpt lat="27.850148007273674" lon="86.946967039257288">
+	<ele>5340.1499999999996</ele>
+	<name>S3-OtherSideHigh-RB</name>
+</wpt>
+<wpt lat="27.780059035867453" lon="87.434983989223838">
+	<ele>2678.6300000000001</ele>
+	<name>S3-PrayerFlag-RB</name>
+</wpt>
+<wpt lat="27.621888164430857" lon="87.347015831619501">
+	<ele>1333.7048339999999</ele>
+	<name>S3-SchoolCampsite-DM</name>
+</wpt>
+<wpt lat="27.855624994263053" lon="86.928930021822453">
+	<ele>5471.5900000000001</ele>
+	<name>S3-See-RB</name>
+</wpt>
+<wpt lat="27.856296384707093" lon="87.004273943603039">
+	<ele>6180</ele>
+	<name>S3-SherpaniCol-01-RB</name>
+</wpt>
+<wpt lat="27.856062026694417" lon="87.004294982179999">
+	<ele>6180.9899999999998</ele>
+	<name>S3-SherpaniCol-02-RB</name>
+</wpt>
+<wpt lat="27.860469985753298" lon="87.023500017821789">
+	<ele>5687.9628899999998</ele>
+	<name>S3-SherpaniColBaseCamp-RB</name>
+</wpt>
+<wpt lat="27.856167973950505" lon="87.005059998482466">
+	<ele>6098.8999999999996</ele>
+	<name>S3-Steep-1-RB</name>
+</wpt>
+<wpt lat="27.860467974096537" lon="87.047304036095738">
+	<ele>5031.2799999999997</ele>
+	<name>S3-Swiss-BaseCamp-RB</name>
+</wpt>
+<wpt lat="27.792144985869527" lon="87.152505973353982">
+	<ele>4018.1999999999998</ele>
+	<name>S3-TeaHouse-RB</name>
+</wpt>
+<wpt lat="27.757160011678934" lon="87.548040021210909">
+	<ele>3556</ele>
+	<name>S3-Thudam-RB</name>
+</wpt>
+<wpt lat="27.779033007100224" lon="87.434733035042882">
+	<ele>2618.2399999999998</ele>
+	<name>S3-WaterTank-RB</name>
+</wpt>
+<wpt lat="27.756110010668635" lon="87.42052998393774">
+	<ele>2205.1330600000001</ele>
+	<name>S3-Waypoint031-RB</name>
+</wpt>
+<wpt lat="27.771051004528999" lon="87.4566650390625">
+	<ele>0</ele>
+	<name>S3-Waypoint04b-RB</name>
+</wpt>
+<wpt lat="27.858722023665905" lon="87.010881984606385">
+	<ele>5949.1899999999996</ele>
+	<name>S3-Waypoint-011a-RB</name>
+</wpt>
+<wpt lat="27.754841996356845" lon="87.512686997652054">
+	<ele>3117.1300000000001</ele>
+	<name>S3-Waypoint-x-RB</name>
+</wpt>
+<wpt lat="27.865374656394124" lon="87.040519220754504">
+	<ele>5154.1953100000001</ele>
+	<name>S3-Waypoint12-RB</name>
+</wpt>
+<wpt lat="27.870389968156815" lon="87.042779987677932">
+	<ele>5177.0258800000001</ele>
+	<name>S3-Waypoint13-RB</name>
+</wpt>
+<wpt lat="27.871899968013167" lon="87.042150003835559">
+	<ele>5154.1953100000001</ele>
+	<name>S3-Waypoint14-RB</name>
+</wpt>
+<wpt lat="27.845709957182407" lon="86.990498118102551">
+	<ele>6190</ele>
+	<name>S3-WestCol-RB</name>
+</wpt>
+<wpt lat="27.847612984478474" lon="86.988958027213812">
+	<ele>6016.6599999999999</ele>
+	<name>S3-WestColDown-RB</name>
+</wpt>
+<wpt lat="27.79386998154223" lon="87.136160004884005">
+	<ele>4254.4081999999999</ele>
+	<name>S3-YakKharka-RB</name>
+</wpt>
+<wpt lat="27.759680030867457" lon="87.165590040385723">
+	<ele>3556.7363300000002</ele>
+	<name>S3-Yangla-Kharka-RB</name>
+</wpt>
+<wpt lat="27.848087484017015" lon="86.486315410584211">
+	<ele>0</ele>
+	<name>Morraine Camp</name>
+</wpt>
+<wpt lat="27.95857303775847" lon="86.758773028850555">
+	<ele>5166.9499999999998</ele>
+	<name>S4-ChoLa-RB</name>
+</wpt>
+<wpt lat="27.904322007670999" lon="86.871847249567509">
+	<ele>4740</ele>
+	<name>S4-Chukhung-RB</name>
+</wpt>
+<wpt lat="27.87704729475081" lon="85.89263929054141">
+	<ele>1222</ele>
+	<name>S4-LastResort-RB</name>
+</wpt>
+<wpt lat="27.947350004687905" lon="86.658529993146658">
+	<ele>5408.46191</ele>
+	<name>S4-RenjoLa-RB</name>
+</wpt>
+<wpt lat="27.844830024987459" lon="86.549329971894622">
+	<ele>5760.7200000000003</ele>
+	<name>S4-TashiLabsa-RB</name>
+</wpt>
+<wpt lat="27.836609976366162" lon="86.647839965298772">
+	<ele>3814.3676799999998</ele>
+	<name>S4-Thame-RB</name>
+</wpt>
+<wpt lat="27.87704729475081" lon="85.89263929054141">
+	<ele>1222</ele>
+	<name>S5-LastResort-RB</name>
+</wpt>
+<wpt lat="28.19586438126862" lon="85.684475312009454">
+	<ele></ele>
+	<name>S5-Seth Backtracks-RFB</name>
+</wpt>
+<wpt lat="28.143059983849525" lon="85.360479969531298">
+	<ele>2246</ele>
+	<name>S5-SyrabruBesi</name>
+</wpt>
+<wpt lat="28.015799978747964" lon="85.785659970715642">
+	<ele>2159.7109399999999</ele>
+	<name>S5-Tembathan-RB</name>
+</wpt>
+<wpt lat="28.502970021218061" lon="84.865089962258935">
+	<ele>1991.00098</ele>
+	<name>S6-Bihi-Phedi-RB</name>
+</wpt>
+<wpt lat="28.633610028773546" lon="84.471509987488389">
+	<ele>3705</ele>
+	<name>S6-Bimthang-RB</name>
+</wpt>
+<wpt lat="28.17882003262639" lon="84.925370011478662">
+	<ele>1555.2866200000001</ele>
+	<name>S6-Bridge1-RB</name>
+</wpt>
+<wpt lat="28.26766443438828" lon="84.893981628119946">
+	<ele>930</ele>
+	<name>S6-Bridge2-RB</name>
+</wpt>
+<wpt lat="28.26766443438828" lon="84.893981628119946">
+	<ele>930</ele>
+	<name>S6-Bridge3-RB</name>
+</wpt>
+<wpt lat="28.168307784944773" lon="85.045255031436682">
+	<ele>1249</ele>
+	<name>S6-Campsite1-RB</name>
+</wpt>
+<wpt lat="28.489615302532911" lon="85.042511634528637">
+	<ele>3046</ele>
+	<name>S6-Chokung-RB</name>
+</wpt>
+<wpt lat="28.442740011960268" lon="84.894280023872852">
+	<ele>2284.922</ele>
+	<name>S6-Chumjet-RB</name>
+</wpt>
+<wpt lat="28.664370020851493" lon="84.545360002666712">
+	<ele>4905.21533</ele>
+	<name>S6-CrudeShelterMaybe-SW</name>
+</wpt>
+<wpt lat="28.479849966242909" lon="84.866450009867549">
+	<ele>1851.4000000000001</ele>
+	<name>S6-Deng-RB</name>
+</wpt>
+<wpt lat="28.340258924290538" lon="84.900809274986386">
+	<ele></ele>
+	<name>S6-DetourEnd-SW</name>
+</wpt>
+<wpt lat="28.659060001373291" lon="84.584139967337251">
+	<ele>4368.8000000000002</ele>
+	<name>S6-Dhamamsala-RB</name>
+</wpt>
+<wpt lat="28.524549985304475" lon="84.354199972003698">
+	<ele>1966.2</ele>
+	<name>S6-Dharapani-RB</name>
+</wpt>
+<wpt lat="28.161590024828911" lon="85.268499981611967">
+	<ele>2334.18921</ele>
+	<name>S6-Gatlang-RB</name>
+</wpt>
+<wpt lat="28.566320026293397" lon="84.40349000506103">
+	<ele>2495.2089999999998</ele>
+	<name>S6-Goa-RB</name>
+</wpt>
+<wpt lat="28.351952517405152" lon="84.895392470061779">
+	<ele>1335</ele>
+	<name>S6-Jagat-RB</name>
+</wpt>
+<wpt lat="28.236639993265271" lon="84.904230013489723">
+	<ele>2073.9143100000001</ele>
+	<name>S6-Keraunja-RB</name>
+</wpt>
+<wpt lat="28.167570009827614" lon="85.012829974293709">
+	<ele>1853.29321</ele>
+	<name>S6-Lapagaon-RB</name>
+</wpt>
+<wpt lat="28.664479991421103" lon="84.520600028336048">
+	<ele>5136.3999999999996</ele>
+	<name>S6-Larkya-La-RB</name>
+</wpt>
+<wpt lat="28.573940014466643" lon="84.701259965077043">
+	<ele>3181.3442399999999</ele>
+	<name>S6-Lho-RB</name>
+</wpt>
+<wpt lat="28.561530020087957" lon="84.738490032032132">
+	<ele>2933.3261699999998</ele>
+	<name>S6-Lihi-RB</name>
+</wpt>
+<wpt lat="28.550033569335938" lon="84.750080108642578">
+	<ele></ele>
+	<name>S6-Lindanda-BC</name>
+</wpt>
+<wpt lat="28.550033569335938" lon="84.749908447265625">
+	<ele></ele>
+	<name>S6-LindandaVillage-SW</name>
+</wpt>
+<wpt lat="28.443256253376603" lon="84.91060595959425">
+	<ele>1879</ele>
+	<name>S6-Lukuwa-RB</name>
+</wpt>
+<wpt lat="28.157799979671836" lon="84.960939958691597">
+	<ele>2936.2099600000001</ele>
+	<name>S6-MyangalKharka-RB</name>
+</wpt>
+<wpt lat="28.544720029458404" lon="84.770100032910705">
+	<ele>2628.5999999999999</ele>
+	<name>S6-Namrung-RB</name>
+</wpt>
+<wpt lat="28.16219000145793" lon="84.948340030387044">
+	<ele>2749.7158199999999</ele>
+	<name>S6-NaubunKharka-RB</name>
+</wpt>
+<wpt lat="28.449954986572266" lon="84.899940490722656">
+	<ele></ele>
+	<name>S6-Ngyak-BC</name>
+</wpt>
+<wpt lat="28.449954986572266" lon="84.899940490722656">
+	<ele></ele>
+	<name>S6-Ngyak-SW</name>
+</wpt>
+<wpt lat="28.162629967555404" lon="85.171460006386042">
+	<ele>3832.1518599999999</ele>
+	<name>S6-PansanPass-RB</name>
+</wpt>
+<wpt lat="28.391110170632601" lon="84.892560057342052">
+	<ele>1448</ele>
+	<name>S6-Phillim-Bridge-RB</name>
+</wpt>
+<wpt lat="28.551079966127872" lon="84.627650007605553">
+	<ele>4038.59375</ele>
+	<name>S6-Pung GyenGompa-RB</name>
+</wpt>
+<wpt lat="28.51032773964107" lon="85.081425122916698">
+	<ele>3220</ele>
+	<name>S6-RachenGompa-RB</name>
+</wpt>
+<wpt lat="28.587270006537437" lon="84.641690030694008">
+	<ele>3533.9000000000001</ele>
+	<name>S6-Sama-RB</name>
+</wpt>
+<wpt lat="28.650360004976392" lon="84.633320029824972">
+	<ele>3876.0999999999999</ele>
+	<name>S6-Samdo-RB</name>
+</wpt>
+<wpt lat="28.477898323908448" lon="85.009777955710888">
+	<ele>2457</ele>
+	<name>S6-SarpuKholaBridge-RB</name>
+</wpt>
+<wpt lat="28.574500009417534" lon="84.670390002429485">
+	<ele>3490.6464799999999</ele>
+	<name>S6-Shyala-RB</name>
+</wpt>
+<wpt lat="28.189690019935369" lon="85.199729986488819">
+	<ele>3258.2490200000002</ele>
+	<name>S6-Somdang-RB</name>
+</wpt>
+<wpt lat="28.143059983849525" lon="85.360479969531298">
+	<ele>2246</ele>
+	<name>S6-SyrabruBesi</name>
+</wpt>
+<wpt lat="28.180458107963204" lon="85.106507632881403">
+	<ele>2066</ele>
+	<name>S6-Tipling-RB</name>
+</wpt>
+<wpt lat="28.434480149298906" lon="84.899276308715343">
+	<ele>1672</ele>
+	<name>S6-TsumTrailJunction-RB</name>
+</wpt>
+<wpt lat="28.473857240751386" lon="84.961605481803417">
+	<ele>2335</ele>
+	<name>S6-Tumje-RB</name>
+</wpt>
+<wpt lat="28.597670020535588" lon="84.448699979111552">
+	<ele>3028.6999999999998</ele>
+	<name>S6-YakKharka-RB</name>
+</wpt>
+<wpt lat="28.180950041860342" lon="84.912879969924688">
+	<ele>1876.6052199999999</ele>
+	<name>S6-Yarsa-RB</name>
+</wpt>
+<wpt lat="28.325632084161043" lon="84.906753553077579">
+	<ele></ele>
+	<name>S8-DetourStart-SW</name>
+</wpt>
+<wpt lat="28.533675028011203" lon="84.339945036917925">
+	<ele>2090</ele>
+	<name>S7-Bagarchhap-SW</name>
+</wpt>
+<wpt lat="28.573150020092726" lon="84.189999997615814">
+	<ele>2905</ele>
+	<name>S7-Bhratang-SW</name>
+</wpt>
+<wpt lat="28.656750032678246" lon="84.040500037372112">
+	<ele>3407.7334000000001</ele>
+	<name>S7-Braga-SW</name>
+</wpt>
+<wpt lat="28.551452038809657" lon="84.243482993915677">
+	<ele>2684</ele>
+	<name>S7-Chame-SW</name>
+</wpt>
+<wpt lat="28.531966963782907" lon="84.322858024388552">
+	<ele>2210</ele>
+	<name>S7-Danakyu-SW</name>
+</wpt>
+<wpt lat="28.524549985304475" lon="84.354199972003698">
+	<ele>1966.24731</ele>
+	<name>S7-Dharapani-RB</name>
+</wpt>
+<wpt lat="28.521515568718314" lon="84.357084184885025">
+	<ele>0</ele>
+	<name>S7-Dharapani-SW</name>
+</wpt>
+<wpt lat="28.602463379502296" lon="84.177668625488877">
+	<ele>3186.1763493311169</ele>
+	<name>S7-DhukurePokhari-SW</name>
+</wpt>
+<wpt lat="28.637812966480851" lon="84.090671008452773">
+	<ele>3395.5847668799511</ele>
+	<name>S7-Humde-SW</name>
+</wpt>
+<wpt lat="28.836459964513779" lon="83.78303999081254">
+	<ele>2851</ele>
+	<name>S7-Kagbeni-SW</name>
+</wpt>
+<wpt lat="28.684550039470196" lon="83.998769978061318">
+	<ele>3948.7109399999999</ele>
+	<name>S7-Khangsar-SW</name>
+</wpt>
+<wpt lat="28.552297940477729" lon="84.259389247745275">
+	<ele>2620</ele>
+	<name>S7-Koto-SW</name>
+</wpt>
+<wpt lat="28.741288986057043" lon="83.973030997440219">
+	<ele>4230.3755161601457</ele>
+	<name>S7-Letdar-SW</name>
+</wpt>
+<wpt lat="28.664574036374688" lon="84.024978009983897">
+	<ele>3537.0810777600841</ele>
+	<name>S7-Manang-SW</name>
+</wpt>
+<wpt lat="28.816650006920099" lon="83.86653003282845">
+	<ele>3692</ele>
+	<name>S7-Muktinath-SW</name>
+</wpt>
+<wpt lat="28.81205596961081" lon="83.893555970862508">
+	<ele>4184.8093132801596</ele>
+	<name>S7-MuktinathPhedi-SW</name>
+</wpt>
+<wpt lat="28.649189975112677" lon="84.101560022681952">
+	<ele>3720</ele>
+	<name>S7-Ngawal-SW</name>
+</wpt>
+<wpt lat="28.61470808275044" lon="84.147893339395523">
+	<ele>0</ele>
+	<name>S7-Pisang-SW</name>
+</wpt>
+<wpt lat="28.556654853746295" lon="84.22633521258831">
+	<ele>2777</ele>
+	<name>S7-Telekhu-SW</name>
+</wpt>
+<wpt lat="28.67177702486515" lon="84.012763146311045">
+	<ele>3688.9915473278138</ele>
+	<name>S7-Tengi-SW</name>
+</wpt>
+<wpt lat="28.548149988055229" lon="84.286456005647779">
+	<ele>2653</ele>
+	<name>S7-Thanchok-SW</name>
+</wpt>
+<wpt lat="28.793499693274498" lon="83.938758736476302">
+	<ele>5519</ele>
+	<name>S7-Thorong-La-RB</name>
+</wpt>
+<wpt lat="28.776980051770806" lon="83.972437223419547">
+	<ele>0</ele>
+	<name>S7-ThorongPhedi-SW</name>
+</wpt>
+<wpt lat="28.782718973234296" lon="83.967467006295919">
+	<ele>4873.7547862400179</ele>
+	<name>S7-ThorungHighCamp-SW</name>
+</wpt>
+<wpt lat="28.61671001650393" lon="84.153430005535483">
+	<ele>3319</ele>
+	<name>S7-UpperPisang-SW</name>
+</wpt>
+<wpt lat="29.286909978836775" lon="82.939899992197752">
+	<ele>4717.0385699999997</ele>
+	<name>S8-Campsite-1-HR-RB</name>
+</wpt>
+<wpt lat="29.655980011448264" lon="82.807380007579923">
+	<ele>4828.5507799999996</ele>
+	<name>S8-Campsite-2-R-RB</name>
+</wpt>
+<wpt lat="29.670490007847548" lon="82.693640012294054">
+	<ele>3793.4594699999998</ele>
+	<name>S8-Campsite-3-HR-RB</name>
+</wpt>
+<wpt lat="29.653310040012002" lon="82.571240002289414">
+	<ele>3635.8042</ele>
+	<name>S8-Campsite-4-HR-RB</name>
+</wpt>
+<wpt lat="29.573049964383245" lon="82.25556998513639">
+	<ele>1949.66479</ele>
+	<name>S8-Campsite-5-RHR-B</name>
+</wpt>
+<wpt lat="29.680370008572936" lon="82.640000022947788">
+	<ele>5150.1093799999999</ele>
+	<name>S8-Chyargola-La-RB</name>
+</wpt>
+<wpt lat="29.547929987311363" lon="82.159859966486692">
+	<ele>2069.3481400000001</ele>
+	<name>S8-Gamgadhi-RB</name>
+</wpt>
+<wpt lat="29.299389962106943" lon="82.945749973878264">
+	<ele>5349.1010699999997</ele>
+	<name>S8-Nangdalo-La-RB</name>
+</wpt>
+<wpt lat="29.55928998067975" lon="82.81916999258101">
+	<ele>5562.03125</ele>
+	<name>S8-Nyingma-Gyansen-La-RB</name>
+</wpt>
+<wpt lat="29.592239996418357" lon="82.833080012351274">
+	<ele>4652.1503899999998</ele>
+	<name>S8-Pang-Kharka-Rb</name>
+</wpt>
+<wpt lat="29.519750028848648" lon="82.864680038765073">
+	<ele>4086.4184599999999</ele>
+	<name>S8-Pho-Gaon-RB</name>
+</wpt>
+<wpt lat="29.272599974647164" lon="82.901680022478104">
+	<ele>3729.2919900000002</ele>
+	<name>S8-Phoksumdo-Khola-RB</name>
+</wpt>
+<wpt lat="29.173931982368231" lon="82.93628697283566">
+	<ele>3614.5703119999998</ele>
+	<name>S8-Phoksundo-Lake-RB</name>
+</wpt>
+<wpt lat="29.353890018537641" lon="82.964870017021894">
+	<ele>4343.0888699999996</ele>
+	<name>S8-Shey-Gompa-RB</name>
+</wpt>
+<wpt lat="29.589519985020161" lon="82.436030013486743">
+	<ele>2418.3037100000001</ele>
+	<name>S8-Tiyar-RB</name>
+</wpt>
+<wpt lat="29.529849970713258" lon="82.837199969217181">
+	<ele>4993.6557599999996</ele>
+	<name>S8-Waypoint-0-RB</name>
+</wpt>
+<wpt lat="29.66665000654757" lon="82.732459958642721">
+	<ele>4364.71875</ele>
+	<name>S8-Waypoint-1-RB</name>
+</wpt>
+<wpt lat="29.665449969470501" lon="82.714090012013912">
+	<ele>4424.5600599999998</ele>
+	<name>S8-Waypoint-2-RB</name>
+</wpt>
+<wpt lat="29.680969985201955" lon="82.656060000881553">
+	<ele>4413.0239300000003</ele>
+	<name>S8-Waypoint-3-RB</name>
+</wpt>
+<wpt lat="29.636599961668253" lon="82.49426999129355">
+	<ele>2700.9296899999999</ele>
+	<name>S8-Waypoint-4-RB</name>
+</wpt>
+<wpt lat="29.653729973360896" lon="82.826880002394319">
+	<ele>5412.3071300000001</ele>
+	<name>S8-Yala-La-RB</name>
+</wpt>
+<wpt lat="29.485710030421615" lon="82.906080018728971">
+	<ele>4813.4106400000001</ele>
+	<name>S8-Yambur-La-RB</name>
+</wpt>
+<wpt lat="29.163908315822482" lon="82.766780583187938">
+	<ele></ele>
+	<name>S8-KagmaraLa-RFB</name>
+</wpt>
+<wpt lat="29.132741969078779" lon="82.897248007357121">
+	<ele>3026.929932</ele>
+	<name>S8-Sanduwa-RB</name>
+</wpt>
+<wpt lat="29.15818003937602" lon="83.038409985601902">
+	<ele>5168.6147499999997</ele>
+	<name>S8-BagaLa-RB</name>
+</wpt>
+<wpt lat="29.417230971157551" lon="82.119552986696362">
+	<ele>2927.2951659999999</ele>
+	<name>S8-Bhad-RB</name>
+</wpt>
+<wpt lat="28.882406959310174" lon="83.72346100397408">
+	<ele>4458</ele>
+	<name>S8-Bhima-Lojun-La-RB</name>
+</wpt>
+<wpt lat="29.444620013237" lon="82.112901024520397">
+	<ele>3011.3022460000002</ele>
+	<name>S8-Bulbule-RB</name>
+</wpt>
+<wpt lat="29.449945958331227" lon="82.122601987794042">
+	<ele>3166.9895019999999</ele>
+	<name>S8-Bulbule2-RB</name>
+</wpt>
+<wpt lat="29.061911031603813" lon="83.470722986385226">
+	<ele>4518</ele>
+	<name>S8-Campsite-Thasan-Khola-RB</name>
+</wpt>
+<wpt lat="28.913559978827834" lon="83.620980000123382">
+	<ele>4247.1982399999997</ele>
+	<name>S8-Campsite1-RB</name>
+</wpt>
+<wpt lat="28.943139966577291" lon="83.521599965170026">
+	<ele>4986.6865200000002</ele>
+	<name>S8-Campsite2-RB</name>
+</wpt>
+<wpt lat="29.05719998292625" lon="83.324010008946061">
+	<ele>4320.4980500000001</ele>
+	<name>S8-Campsite3a-RB</name>
+</wpt>
+<wpt lat="29.113884028047323" lon="83.364497032016516">
+	<ele>4564.330078</ele>
+	<name>S8-Campsite3b-RB</name>
+</wpt>
+<wpt lat="29.093399997800589" lon="83.2426000200212">
+	<ele>4684.8349600000001</ele>
+	<name>S8-Campsite4-RB</name>
+</wpt>
+<wpt lat="29.151630001142621" lon="83.020600033923984">
+	<ele>4687.7192400000004</ele>
+	<name>S8-Campsite5-RB</name>
+</wpt>
+<wpt lat="29.076739959418774" lon="83.267599968239665">
+	<ele>5379.8627900000001</ele>
+	<name>S8-ChanLa-RB</name>
+</wpt>
+<wpt lat="29.130938015878201" lon="82.519978964701295">
+	<ele>3064.73999</ele>
+	<name>S8-Chaurikot-RB</name>
+</wpt>
+<wpt lat="29.43080697208643" lon="82.107438035309315">
+	<ele>2780.6889649999998</ele>
+	<name>S8-Chautha-RB</name>
+</wpt>
+<wpt lat="29.325845008715987" lon="82.170439017936587">
+	<ele>3025.9731449999999</ele>
+	<name>S8-Cherechaur-RB</name>
+</wpt>
+<wpt lat="29.089109972119331" lon="83.417439982295036">
+	<ele>4302.7138699999996</ele>
+	<name>S8-Chharka-Bhot-RB</name>
+</wpt>
+<wpt lat="29.202664978802204" lon="82.424581004306674">
+	<ele>3054.9833979999999</ele>
+	<name>S8-Chotra-RB</name>
+</wpt>
+<wpt lat="29.456378985196352" lon="82.128808032721281">
+	<ele>3242.249268</ele>
+	<name>S8-Dabha-RB</name>
+</wpt>
+<wpt lat="29.173099994659424" lon="83.053690027445555">
+	<ele>4512.2797899999996</ele>
+	<name>S8-Danigar-RB</name>
+</wpt>
+<wpt lat="29.343478018417954" lon="82.160162972286344">
+	<ele>3682.6328119999998</ele>
+	<name>S8-Daphe-Lekh-RB</name>
+</wpt>
+<wpt lat="29.17844002135098" lon="83.13697999343276">
+	<ele>4341.8872099999999</ele>
+	<name>S8-DhoTarap-RB</name>
+</wpt>
+<wpt lat="29.151975000277162" lon="82.781108357012272">
+	<ele></ele>
+	<name>S8-DocMcKerrLa-RFB</name>
+</wpt>
+<wpt lat="29.547929987311363" lon="82.159859966486692">
+	<ele>2069.3481400000001</ele>
+	<name>S8-Gamgadhi-RB</name>
+</wpt>
+<wpt lat="29.253128981217742" lon="82.254512021318078">
+	<ele>2508.3942870000001</ele>
+	<name>S8-Garjyankot-End-RB</name>
+</wpt>
+<wpt lat="29.252496985718608" lon="82.264588996767998">
+	<ele>2576.4423830000001</ele>
+	<name>S8-Garjyankot-RB</name>
+</wpt>
+<wpt lat="29.468321017920971" lon="82.130738971754909">
+	<ele>3447.118164</ele>
+	<name>S8-Ghurchi-Lagna-RB</name>
+</wpt>
+<wpt lat="29.174929009750485" lon="82.94423402287066">
+	<ele>3649.6420899999998</ele>
+	<name>S8-Gomba-RB</name>
+</wpt>
+<wpt lat="29.233480039983988" lon="82.294819001108408">
+	<ele>2884.6777339999999</ele>
+	<name>S8-Gotechaur-RB</name>
+</wpt>
+<wpt lat="29.215518040582538" lon="82.311192965134978">
+	<ele>2802.1435550000001</ele>
+	<name>S8-Gothichaur-RB</name>
+</wpt>
+<wpt lat="29.389946032315493" lon="82.153141032904387">
+	<ele>2884.4433589999999</ele>
+	<name>S8-Hinduchi-RB</name>
+</wpt>
+<wpt lat="29.220308968797326" lon="82.331221019849181">
+	<ele>2684.7551269999999</ele>
+	<name>S8-Iron-Bridge-RB</name>
+</wpt>
+<wpt lat="29.261567965149879" lon="82.242819014936686">
+	<ele>2425.0751949999999</ele>
+	<name>S8-Jharjwu-La-RB</name>
+</wpt>
+<wpt lat="29.275013040751219" lon="82.183266011998057">
+	<ele>2350.232422</ele>
+	<name>S8-Jumla-Bazar-RB</name>
+</wpt>
+<wpt lat="28.921766029670835" lon="83.57725496403873">
+	<ele>5545.2197269999997</ele>
+	<name>S8-Jungben-La-RB</name>
+</wpt>
+<wpt lat="29.412670964375138" lon="82.12257700972259">
+	<ele>2775.5739749999998</ele>
+	<name>S8-Kabra-RB</name>
+</wpt>
+<wpt lat="28.836459964513779" lon="83.78303999081254">
+	<ele>2851</ele>
+	<name>S8-Kagbeni</name>
+</wpt>
+<wpt lat="29.163908315822482" lon="82.766780583187938">
+	<ele></ele>
+	<name>S8-KagmaraLa-RFB</name>
+</wpt>
+<wpt lat="29.358651023358107" lon="82.160549964755774">
+	<ele>3534.1435550000001</ele>
+	<name>S8-Khali-RB</name>
+</wpt>
+<wpt lat="29.199920995160937" lon="82.364139016717672">
+	<ele>2766.2080080000001</ele>
+	<name>S8-Manisango-RB</name>
+</wpt>
+<wpt lat="29.124766001477838" lon="82.569364970549941">
+	<ele>2863.0073240000002</ele>
+	<name>S8-Mazgaon-RB</name>
+</wpt>
+<wpt lat="29.147638035938144" lon="82.487288033589721">
+	<ele>3548.6601559999999</ele>
+	<name>S8-Naule-RB</name>
+</wpt>
+<wpt lat="29.397674985229969" lon="82.142046997323632">
+	<ele>2696.835693</ele>
+	<name>S8-Nauri-Ghat-RB</name>
+</wpt>
+<wpt lat="28.944899998605251" lon="83.519758963957429">
+	<ele>4976.9414059999999</ele>
+	<name>S8-NulungSumda-Kharka-Camp-RB</name>
+</wpt>
+<wpt lat="29.175710035488009" lon="83.099420014768839">
+	<ele>5309.4467800000002</ele>
+	<name>S8-NumaLaSouth-RB</name>
+</wpt>
+<wpt lat="29.314734963700175" lon="82.182353977113962">
+	<ele>2661.2216800000001</ele>
+	<name>S8-Panegaon-RB</name>
+</wpt>
+<wpt lat="29.16082201525569" lon="82.481102021411061">
+	<ele>3903.4477539999998</ele>
+	<name>S8-Pass-RB</name>
+</wpt>
+<wpt lat="29.223870020359755" lon="82.303641038015485">
+	<ele>2992.4165039999998</ele>
+	<name>S8-Pass2-RB</name>
+</wpt>
+<wpt lat="29.157736971974373" lon="82.926006987690926">
+	<ele>3726.649414</ele>
+	<name>S8-Phok-Pass-RB</name>
+</wpt>
+<wpt lat="29.173931982368231" lon="82.93628697283566">
+	<ele>3614.5703119999998</ele>
+	<name>S8-Phoksundo-Lake-RB</name>
+</wpt>
+<wpt lat="29.537962982431054" lon="82.076549967750907">
+	<ele>2986.281982</ele>
+	<name>S8-RaraLake-RB</name>
+</wpt>
+<wpt lat="29.148244969546795" lon="82.924488019198179">
+	<ele>3257.1010740000002</ele>
+	<name>S8-Rike-RB</name>
+</wpt>
+<wpt lat="29.169429978355765" lon="82.93675996363163">
+	<ele>3641.5717800000002</ele>
+	<name>S8-Ringmo-RB</name>
+</wpt>
+<wpt lat="29.132741969078779" lon="82.897248007357121">
+	<ele>3026.929932</ele>
+	<name>S8-Sanduwa-RB</name>
+</wpt>
+<wpt lat="29.211941985413432" lon="82.348362011834979">
+	<ele>2719.5302729999999</ele>
+	<name>S8-Satapani-RB</name>
+</wpt>
+<wpt lat="29.316991958767176" lon="82.180757978931069">
+	<ele>2752.6860350000002</ele>
+	<name>S8-Sinimula-RB</name>
+</wpt>
+<wpt lat="29.370879968628287" lon="82.154902992770076">
+	<ele>3365.9804690000001</ele>
+	<name>S8-Tharmali-RB</name>
+</wpt>
+<wpt lat="29.157207990065217" lon="82.926619034260511">
+	<ele>3683.3950199999999</ele>
+	<name>S8-Viewpoint-Waterfall-RB</name>
+</wpt>
+<wpt lat="29.297323990613222" lon="82.180520016700029">
+	<ele>2438.6127929999998</ele>
+	<name>S8-WoodenBridge-ToRara-RB</name>
+</wpt>
+<wpt lat="29.792179986834526" lon="81.996080009266734">
+	<ele>3181.1039999999998</ele>
+	<name>S9-Apsia-Lekh-RB</name>
+</wpt>
+<wpt lat="29.942370029166341" lon="81.856649983674288">
+	<ele>2204.6525900000001</ele>
+	<name>S9-Bridge-RB</name>
+</wpt>
+<wpt lat="29.653480025008321" lon="82.115730000659823">
+	<ele>3006.1455099999998</ele>
+	<name>S9-Campsite-1-RB</name>
+</wpt>
+<wpt lat="29.859780035912991" lon="81.953370021656156">
+	<ele>2935.4887699999999</ele>
+	<name>S9-Campsite-2-RB</name>
+</wpt>
+<wpt lat="29.639200028032064" lon="82.115003038197756">
+	<ele>3589.2521969999998</ele>
+	<name>S9-Chankheli-Pass-RB</name>
+</wpt>
+<wpt lat="29.974659970030189" lon="81.795689994469285">
+	<ele>2869.1586900000002</ele>
+	<name>S9-Dadaphaya-RB</name>
+</wpt>
+<wpt lat="30.044499998912215" lon="81.727389972656965">
+	<ele>2640.8476599999999</ele>
+	<name>S9-Dhar-Kermi-RB</name>
+</wpt>
+<wpt lat="30.005040010437369" lon="81.769069992005825">
+	<ele>2355.3378899999998</ele>
+	<name>S9-Dharapori-RB</name>
+</wpt>
+<wpt lat="29.917443003505468" lon="81.908182008191943">
+	<ele>2981.4436040000001</ele>
+	<name>S9-Durpa-School-RB</name>
+</wpt>
+<wpt lat="29.547929987311363" lon="82.159859966486692">
+	<ele>2069.3481400000001</ele>
+	<name>S9-Gamgadhi</name>
+</wpt>
+<wpt lat="30.15215003862977" lon="81.334460014477372">
+	<ele>3646.6186499999999</ele>
+	<name>S9-Hilsa-RB</name>
+</wpt>
+<wpt lat="29.657851019874215" lon="82.112093009054661">
+	<ele>2995.8283689999998</ele>
+	<name>S9-Jogimara-Lodge-RB</name>
+</wpt>
+<wpt lat="30.04854996688664" lon="81.705649998039007">
+	<ele>2779.75684</ele>
+	<name>S9-Kermi-RB</name>
+</wpt>
+<wpt lat="29.580090008676052" lon="82.159640025347471">
+	<ele>2072.47217</ele>
+	<name>S9-Luma-RB</name>
+</wpt>
+<wpt lat="29.87546500749886" lon="81.927148997783661">
+	<ele>4022.039307</ele>
+	<name>S9-Margor-Lek-Pass-RB</name>
+</wpt>
+<wpt lat="30.138500025495887" lon="81.378580005839467">
+	<ele>4560.1049800000001</ele>
+	<name>S9-Nara La-RB</name>
+</wpt>
+<wpt lat="30.09833000600338" lon="81.477580005303025">
+	<ele>3470.9394499999999</ele>
+	<name>S9-Palbang-RB</name>
+</wpt>
+<wpt lat="30.091730011627078" lon="81.502399994060397">
+	<ele>3467.5752000000002</ele>
+	<name>S9-Pathalna-RB</name>
+</wpt>
+<wpt lat="29.832848981022835" lon="81.963898027315736">
+	<ele>2471.101318</ele>
+	<name>S9-Phucha-School-RB</name>
+</wpt>
+<wpt lat="29.748827023431659" lon="82.060976978391409">
+	<ele>1751.5749510000001</ele>
+	<name>S9-Piplan-RB</name>
+</wpt>
+<wpt lat="29.71093000844121" lon="82.093389965593815">
+	<ele>2552.8874500000002</ele>
+	<name>S9-Rimi-RB</name>
+</wpt>
+<wpt lat="29.971729991957545" lon="81.818820023909211">
+	<ele>2976.3447299999998</ele>
+	<name>S9-Simikot-RB</name>
+</wpt>
+<wpt lat="30.05927000194788" lon="81.616460010409355">
+	<ele>3061.18066</ele>
+	<name>S9-Taplun-RB</name>
+</wpt>
+<wpt lat="30.079889986664057" lon="81.524220015853643">
+	<ele>3074.1581999999999</ele>
+	<name>S9-Tumkot-RB</name>
+</wpt>
+<wpt lat="30.05828496068716" lon="81.615748973563313">
+	<ele>3011.514404</ele>
+	<name>S9-Yalbang-School-RB</name>
+</wpt>
+<wpt lat="30.11304996907711" lon="81.4339330047369">
+	<ele>3655.5935060000002</ele>
+	<name>S9-Yari-Lodge-RB</name>
+</wpt>
+</gpx>
