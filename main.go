@@ -14,9 +14,38 @@ import (
 )
 
 func main() {
-	if err := Duplicate(); err != nil {
+	if err := Convert(); err != nil {
 		panic(err)
 	}
+}
+
+func Convert() error {
+	dir1 := "/Users/dave/Dropbox/GHT/old/Daily routes individual files"
+	dir2 := "/Users/dave/Dropbox/GHT/old/Daily routes individual files, converted to tracks"
+	files, err := ioutil.ReadDir(dir1)
+	if err != nil {
+		panic(err)
+	}
+	for _, f := range files {
+		if !strings.HasSuffix(f.Name(), ".gpx") {
+			continue
+		}
+		g1 := loadGpx(filepath.Join(dir1, f.Name()))
+		g2 := gpx{}
+
+		for _, v := range g1.Routes {
+			t := Track{}
+			t.Name = v.Name
+			s := TrackSegment{}
+			for _, p := range v.Points {
+				s.Points = append(s.Points, p)
+			}
+			t.Segments = append(t.Segments, s)
+			g2.Tracks = append(g2.Tracks, t)
+		}
+		saveGpx(g2, filepath.Join(dir2, f.Name()))
+	}
+	return nil
 }
 
 // Duplicate merges the two waypoints files, removes duplicate waypoints and assigns unique codes
@@ -76,19 +105,21 @@ func Duplicate() error {
 
 	for _, m := range markers {
 
-		// give the start of each day the "camp" icon:
-		sym := "Camp"
-		if m.Km > 0 {
-			// each km marker will have a numbered icon
-			sym = fmt.Sprint(m.Km)
+		if m.Km%3 == 0 {
+			// give the start of each day the "camp" icon:
+			sym := "Camp"
+			if m.Km > 0 {
+				// each km marker will have a numbered icon
+				sym = fmt.Sprint(m.Km)
+			}
+			markersGpx.Waypoints = append(markersGpx.Waypoints, Waypoint{
+				Lat:  m.Lat,
+				Lon:  m.Lon,
+				Ele:  m.Ele,
+				Name: m.String(),
+				Sym:  sym,
+			})
 		}
-		markersGpx.Waypoints = append(markersGpx.Waypoints, Waypoint{
-			Lat:  m.Lat,
-			Lon:  m.Lon,
-			Ele:  m.Ele,
-			Name: m.String(),
-			Sym:  sym,
-		})
 
 		// order the waypoints for each marker by longitude (east to west)
 		sort.Slice(m.Waypoints, func(i, j int) bool {
@@ -111,7 +142,7 @@ func Duplicate() error {
 	}
 
 	saveGpx(waypointsGpx, "waypoints.gpx")
-	saveGpx(markersGpx, "markers.gpx")
+	saveGpx(markersGpx, "markers-every-3-km.gpx")
 
 	return nil
 
