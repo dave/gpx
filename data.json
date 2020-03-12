@@ -1,0 +1,1248 @@
+[
+  {
+    "Day": 1,
+    "Date": "2019-04-14T23:00:00.000Z",
+    "DayFrom": "TAPLEJUNG",
+    "DayTo": "PHURUMBU",
+    "Leg": 1,
+    "LegFrom": "Taplejung",
+    "LegTo": "Phurumbu"
+  },
+  {
+    "Day": 2,
+    "Date": "2019-04-15T23:00:00.000Z",
+    "DayFrom": "PHURUMBU",
+    "DayTo": "CHIRUWA",
+    "Leg": 2,
+    "LegFrom": "Phurumbu",
+    "LegTo": "Chiruwa"
+  },
+  {
+    "Day": 3,
+    "Date": "2019-04-16T23:00:00.000Z",
+    "DayFrom": "CHIRUWA",
+    "DayTo": "SUKETHUM",
+    "Leg": 3,
+    "LegFrom": "Chiruwa",
+    "LegTo": "Sukethum"
+  },
+  {
+    "Day": 4,
+    "Date": "2019-04-17T23:00:00.000Z",
+    "DayFrom": "SUKETHUM",
+    "DayTo": "AMILJOSA",
+    "Leg": 4,
+    "LegFrom": "Sukethum",
+    "LegTo": "Amjilosa"
+  },
+  {
+    "Day": 5,
+    "Date": "2019-04-18T23:00:00.000Z",
+    "DayFrom": "AMILJOSA",
+    "DayTo": "GYABLA",
+    "Leg": 5,
+    "LegFrom": "Amjilosa",
+    "LegTo": "Gyabla"
+  },
+  {
+    "Day": 7,
+    "Date": "2019-04-20T23:00:00.000Z",
+    "DayFrom": "GYABLA",
+    "DayTo": "GHUNSA",
+    "Leg": 6,
+    "LegFrom": "Gyabla",
+    "LegTo": "Ghunsa"
+  },
+  {
+    "Day": 8,
+    "Date": "2019-04-21T23:00:00.000Z",
+    "DayFrom": "GHUNSA",
+    "DayTo": "KHANGPACHEN",
+    "Leg": 7,
+    "LegFrom": "Ghunsa",
+    "LegTo": "Khangpachen"
+  },
+  {
+    "Day": 10,
+    "Date": "2019-04-23T23:00:00.000Z",
+    "DayFrom": "KHANGPACHEN",
+    "DayTo": "LHONAK",
+    "Leg": 8,
+    "LegFrom": "Khangpachen",
+    "LegTo": "Lhonak"
+  },
+  {
+    "Day": 12,
+    "Date": "2019-04-25T23:00:00.000Z",
+    "DayFrom": "LHONAK",
+    "DayTo": "KANCHENJUNGA BASE CAMP",
+    "Leg": 9,
+    "LegFrom": "Lhonak",
+    "LegTo": "Kanchenjunga BC"
+  },
+  {
+    "Day": 13,
+    "Date": "2019-04-26T23:00:00.000Z",
+    "DayFrom": "KANCHENJUNGA BASE CAMP",
+    "DayTo": "KHANGPACHEN",
+    "Leg": 10,
+    "LegFrom": "Kanchenjunga BC",
+    "LegTo": "Kangpachen"
+  },
+  {
+    "Day": 14,
+    "Date": "2019-04-27T23:00:00.000Z",
+    "DayFrom": "KHANGPACHEN",
+    "DayTo": "GHUNSA",
+    "Leg": 12,
+    "LegFrom": "Kangpachen",
+    "LegTo": "Ghunsa"
+  },
+  {
+    "Day": 16,
+    "Date": "2019-04-29T23:00:00.000Z",
+    "DayFrom": "GHUNSA",
+    "DayTo": "KHARKA",
+    "Leg": 13,
+    "LegFrom": "Ghunsa",
+    "LegTo": "Kharka"
+  },
+  {
+    "Day": 17,
+    "Date": "2019-04-30T23:00:00.000Z",
+    "DayFrom": "KHARKA",
+    "DayTo": "LANGJONG KHARKA",
+    "Leg": 14,
+    "LegFrom": "Kharka",
+    "LegTo": "Yangma Khola (via Nango La)",
+    "Notes": "After Nango La, path is significantly different than map"
+  },
+  {
+    "Day": 18,
+    "Date": "2019-05-01T23:00:00.000Z",
+    "DayFrom": "LANGJONG KHARKA",
+    "DayTo": "OLANGCHUN GOLA",
+    "Leg": 15,
+    "LegFrom": "Yangma Khola",
+    "LegTo": "Olangchun Gola"
+  },
+  {
+    "Day": 21,
+    "Date": "2019-05-04T23:00:00.000Z",
+    "DayFrom": "OLANGCHUN GOLA",
+    "DayTo": "PASS CAMP",
+    "Leg": 16,
+    "LegFrom": "Olangchun Gola",
+    "LegTo": "Pass Camp"
+  },
+  {
+    "Day": 22,
+    "Date": "2019-05-05T23:00:00.000Z",
+    "DayFrom": "PASS CAMP",
+    "DayTo": "THUDAM",
+    "Leg": 17,
+    "LegFrom": "Pass Camp",
+    "LegTo": "Thudam (via Lumbha Sambha Pass)"
+  },
+  {
+    "Day": 23,
+    "Date": "2019-05-06T23:00:00.000Z",
+    "DayFrom": "THUDAM",
+    "DayTo": "JIJIBUK",
+    "Leg": 18,
+    "LegFrom": "Thudam",
+    "LegTo": "Kharka",
+    "Notes": "Stayed with yak herders at Jijibuk"
+  },
+  {
+    "Day": 24,
+    "Date": "2019-05-07T23:00:00.000Z",
+    "DayFrom": "JIJIBUK",
+    "DayTo": "LINGHAM",
+    "Leg": 19,
+    "LegFrom": "Kharka",
+    "LegTo": "Chyamtang",
+    "Notes": "Hiked a long way past Chymtang"
+  },
+  {
+    "Day": 25,
+    "Date": "2019-05-08T23:00:00.000Z",
+    "DayFrom": "LINGHAM",
+    "DayTo": "HONGON",
+    "Leg": 20,
+    "LegFrom": "Chyamtang",
+    "LegTo": "Hongon"
+  },
+  {
+    "Day": 27,
+    "Date": "2019-05-10T23:00:00.000Z",
+    "DayFrom": "HONGON",
+    "DayTo": "MOLUN POKHARI",
+    "Leg": 21,
+    "LegFrom": "Hongon",
+    "LegTo": "Molun Pokhari"
+  },
+  {
+    "Day": 28,
+    "Date": "2019-05-11T23:00:00.000Z",
+    "DayFrom": "MOLUN POKHARI",
+    "DayTo": "KHOLA KHARKA",
+    "Leg": 22,
+    "LegFrom": "Molun Pokhari",
+    "LegTo": "Cave Camp",
+    "Notes": "Couldn't find bridge over the Khola Kharka Khola. Got helicopter to Khongma Danda."
+  },
+  {
+    "Day": 29,
+    "Date": "2019-05-12T23:00:00.000Z",
+    "DayFrom": "KHOLA KHARKA",
+    "Leg": 23,
+    "LegFrom": "Cave Camp",
+    "LegTo": "Kharka"
+  },
+  {
+    "Day": 30,
+    "Date": "2019-05-13T23:00:00.000Z",
+    "DayFrom": "KHOLA KHARKA",
+    "DayTo": "KHONGMA DANDA"
+  },
+  {
+    "Day": 31,
+    "Date": "2019-05-14T23:00:00.000Z",
+    "DayFrom": "KHONGMA DANDA",
+    "DayTo": "DOBATE"
+  },
+  {
+    "Day": 32,
+    "Date": "2019-05-15T23:00:00.000Z",
+    "DayFrom": "DOBATE",
+    "DayTo": "YANGLA KHARKA",
+    "Leg": 24,
+    "LegFrom": "Kharka",
+    "LegTo": "Langmale Kharka",
+    "Notes": "Rejoined the GHT trail half way through leg 24 (days 32, 33)"
+  },
+  {
+    "Day": 33,
+    "Date": "2019-05-16T23:00:00.000Z",
+    "DayFrom": "YANGLA KHARKA",
+    "DayTo": "LANGMALE KHARKA",
+    "Leg": 24,
+    "LegFrom": "Kharka",
+    "LegTo": "Langmale Kharka",
+    "Notes": "Rejoined the GHT trail half way through leg 24 (days 32, 33)"
+  },
+  {
+    "Day": 34,
+    "Date": "2019-05-17T23:00:00.000Z",
+    "DayFrom": "LANGMALE KHARKA",
+    "DayTo": "MAKALU BASE CAMP",
+    "Leg": 25,
+    "LegFrom": "Langmale Kharka",
+    "LegTo": "Makalu BC"
+  },
+  {
+    "Day": 36,
+    "Date": "2019-05-19T23:00:00.000Z",
+    "DayFrom": "MAKALU BASE CAMP",
+    "DayTo": "SWISS BASE CAMP",
+    "Notes": "Out-and-back acclimatisation hike"
+  },
+  {
+    "Day": 37,
+    "Date": "2019-05-20T23:00:00.000Z",
+    "DayFrom": "MAKALU BASE CAMP",
+    "DayTo": "SWISS BASE CAMP",
+    "Leg": 26,
+    "LegFrom": "Makalu BC",
+    "LegTo": "Swiss BC"
+  },
+  {
+    "Day": 38,
+    "Date": "2019-05-21T23:00:00.000Z",
+    "DayFrom": "SWISS BASE CAMP",
+    "DayTo": "SHERPANI COL HIGH CAMP",
+    "Leg": 27,
+    "LegFrom": "Swiss BC",
+    "LegTo": "Sherpani Col BC"
+  },
+  {
+    "Day": 39,
+    "Date": "2019-05-22T23:00:00.000Z",
+    "DayFrom": "SHERPANI COL HIGH CAMP",
+    "DayTo": "BARNUTSE BASE CAMP",
+    "Leg": 28,
+    "LegFrom": "Sherpani Col BC",
+    "LegTo": "Advanced BC (via Sherpani Col)",
+    "Notes": "Day 39 = legs 28 and 29"
+  },
+  {
+    "Day": 39,
+    "Date": "2019-05-22T23:00:00.000Z",
+    "DayFrom": "SHERPANI COL HIGH CAMP",
+    "DayTo": "BARNUTSE BASE CAMP",
+    "Leg": 29,
+    "LegFrom": "Advanced BC",
+    "LegTo": "Honku Basin (via West Col)",
+    "Notes": "Day 39 = legs 28 and 29"
+  },
+  {
+    "Day": 40,
+    "Date": "2019-05-23T23:00:00.000Z",
+    "DayFrom": "BARNUTSE BASE CAMP",
+    "DayTo": "HUNKU KHOLA CAMP",
+    "Notes": "Diversion to Hunku Khola Camp because Mathi was sick. Picked up the trail the next day."
+  },
+  {
+    "Day": 41,
+    "Date": "2019-05-24T23:00:00.000Z",
+    "DayFrom": "HUNKU KHOLA CAMP",
+    "DayTo": "AMPHU LABSTA BASE CAMP",
+    "Leg": 30,
+    "LegFrom": "Honku Basin",
+    "LegTo": "Amphu Labsta BC"
+  },
+  {
+    "Day": 42,
+    "Date": "2019-05-25T23:00:00.000Z",
+    "DayFrom": "AMPHU LABSTA BASE CAMP",
+    "DayTo": "CHHUKUNG",
+    "Leg": 31,
+    "LegFrom": "Amphu Labsta BC",
+    "LegTo": "Chhukung (via Amphu Labsta La)"
+  },
+  {
+    "Day": 43,
+    "Date": "2019-05-26T23:00:00.000Z",
+    "DayFrom": "CHHUKUNG",
+    "DayTo": "DINGBOCHE",
+    "Leg": 32,
+    "LegFrom": "Chhukung",
+    "LegTo": "Dingboche"
+  },
+  {
+    "Day": 45,
+    "Date": "2019-05-28T23:00:00.000Z",
+    "DayFrom": "DINGBOCHE",
+    "DayTo": "DZONGLA",
+    "Leg": 33,
+    "LegFrom": "Dingboche",
+    "LegTo": "Lobuche",
+    "Notes": "Skipped EBC side trail, so day 45 = part of legs 33 and 36."
+  },
+  {
+    "Leg": 34,
+    "LegFrom": "Lobuche",
+    "LegTo": "Gorak Shep (via Kala Pattar)",
+    "Notes": "Skipped EBC side trail"
+  },
+  {
+    "Leg": 35,
+    "LegFrom": "Gorak Shep",
+    "LegTo": "Lobuche (via Everest BC)",
+    "Notes": "Skipped EBC side trail"
+  },
+  {
+    "Day": 45,
+    "Date": "2019-05-28T23:00:00.000Z",
+    "DayFrom": "DINGBOCHE",
+    "DayTo": "DZONGLA",
+    "Leg": 36,
+    "LegFrom": "Lobuche",
+    "LegTo": "Dzongla",
+    "Notes": "Skipped EBC side trail, so day 45 = part of legs 33 and 36."
+  },
+  {
+    "Day": 46,
+    "Date": "2019-05-29T23:00:00.000Z",
+    "DayFrom": "DZONGLA",
+    "DayTo": "GOKYO",
+    "Leg": 37,
+    "LegFrom": "Dzongla",
+    "LegTo": "Dragnag (via Cho La Pass)",
+    "Notes": "Hiked directly from Dzongla to Gokyo without stopping at Dragnag, so day 46 = legs 37 and 38"
+  },
+  {
+    "Day": 46,
+    "Date": "2019-05-29T23:00:00.000Z",
+    "DayFrom": "DZONGLA",
+    "DayTo": "GOKYO",
+    "Leg": 38,
+    "LegFrom": "Dragnag",
+    "LegTo": "Gokyo (via Gokyo Ri)",
+    "Notes": "Hiked directly from Dzongla to Gokyo without stopping at Dragnag, so day 46 = legs 37 and 38"
+  },
+  {
+    "Day": 47,
+    "Date": "2019-05-30T23:00:00.000Z",
+    "DayFrom": "GOKYO",
+    "Notes": "Hiked around the Gokyo lake"
+  },
+  {
+    "Day": 48,
+    "Date": "2019-05-31T23:00:00.000Z",
+    "DayFrom": "GOKYO",
+    "DayTo": "CHO OYU BASE CAMP",
+    "Notes": "Unplanned Cho Oyo side trek"
+  },
+  {
+    "Day": 49,
+    "Date": "2019-06-01T23:00:00.000Z",
+    "DayFrom": "CHO OYU BASE CAMP",
+    "DayTo": "GOKYO",
+    "Notes": "Unplanned Cho Oyo side trek"
+  },
+  {
+    "Day": 50,
+    "Date": "2019-06-02T23:00:00.000Z",
+    "DayFrom": "GOKYO",
+    "DayTo": "LUMDE",
+    "Leg": 39,
+    "LegFrom": "Gokyo",
+    "LegTo": "Lumde (via Renjo La)"
+  },
+  {
+    "Day": 51,
+    "Date": "2019-06-03T23:00:00.000Z",
+    "DayFrom": "LUMDE",
+    "DayTo": "THAME",
+    "Leg": 40,
+    "LegFrom": "Lumde",
+    "LegTo": "Thame"
+  },
+  {
+    "Day": 53,
+    "Date": "2019-06-05T23:00:00.000Z",
+    "DayFrom": "THAME",
+    "DayTo": "THYANGBO",
+    "Leg": 41,
+    "LegFrom": "Thame",
+    "LegTo": "Pachemuche Tsho"
+  },
+  {
+    "Day": 54,
+    "Date": "2019-06-06T23:00:00.000Z",
+    "DayFrom": "THYANGBO",
+    "DayTo": "THAME",
+    "Notes": "Turned back to Thame because of bad weather"
+  },
+  {
+    "Day": 55,
+    "Date": "2019-06-07T23:00:00.000Z",
+    "DayFrom": "THAME",
+    "DayTo": "TASHI LABSTA HIGH CAMP",
+    "Leg": 42,
+    "LegFrom": "Pachemuche Tsho",
+    "LegTo": "Tashi Labsta Camp"
+  },
+  {
+    "Day": 56,
+    "Date": "2019-06-08T23:00:00.000Z",
+    "DayFrom": "TASHI LABSTA HIGH CAMP",
+    "DayTo": "GLACIER CAMP",
+    "Leg": 43,
+    "LegFrom": "Tashi Labsta Camp",
+    "LegTo": "Glacier Camp (via Tashi Labsta La)"
+  },
+  {
+    "Day": 57,
+    "Date": "2019-06-09T23:00:00.000Z",
+    "DayFrom": "GLACIER CAMP",
+    "DayTo": "NA",
+    "Leg": 44,
+    "LegFrom": "Glacier Camp",
+    "LegTo": "Na"
+  },
+  {
+    "Day": 58,
+    "Date": "2019-06-10T23:00:00.000Z",
+    "DayFrom": "NA",
+    "DayTo": "BEDING",
+    "Leg": 45,
+    "LegFrom": "Na",
+    "LegTo": "Beding"
+  },
+  {
+    "Day": 60,
+    "Date": "2019-06-12T23:00:00.000Z",
+    "DayFrom": "BEDING",
+    "DayTo": "DOKHANG",
+    "Leg": 46,
+    "LegFrom": "Beding",
+    "LegTo": "Dokhang"
+  },
+  {
+    "Day": 61,
+    "Date": "2019-06-13T23:00:00.000Z",
+    "DayFrom": "DOKHANG",
+    "DayTo": "GONGGAR",
+    "Leg": 47,
+    "LegFrom": "Dokhang",
+    "LegTo": "Simigaon",
+    "Notes": "Hiked past Simigaon to Gonggar"
+  },
+  {
+    "Day": 62,
+    "Date": "2019-06-14T23:00:00.000Z",
+    "DayFrom": "GONGGAR",
+    "DayTo": "OLANGDANDA",
+    "Leg": 48,
+    "LegFrom": "Simigaon",
+    "LegTo": "Orangdanda"
+  },
+  {
+    "Day": 63,
+    "Date": "2019-06-15T23:00:00.000Z",
+    "DayFrom": "OLANGDANDA",
+    "DayTo": "LADUK",
+    "Leg": 49,
+    "LegFrom": "Orangdanda",
+    "LegTo": "Laduk"
+  },
+  {
+    "Day": 64,
+    "Date": "2019-06-16T23:00:00.000Z",
+    "DayFrom": "LADUK",
+    "DayTo": "LOTING",
+    "Leg": 50,
+    "LegFrom": "Laduk",
+    "LegTo": "Loting"
+  },
+  {
+    "Day": 65,
+    "Date": "2019-06-17T23:00:00.000Z",
+    "DayFrom": "LOTING",
+    "DayTo": "BIGU GOMPA",
+    "Leg": 51,
+    "LegFrom": "Loting",
+    "LegTo": "Bigu Gompa"
+  },
+  {
+    "Day": 67,
+    "Date": "2019-06-19T23:00:00.000Z",
+    "DayFrom": "BIGU GOMPA",
+    "DayTo": "TINSANG KEWA",
+    "Leg": 52,
+    "LegFrom": "Bigu Gompa",
+    "LegTo": "Rupthang Kharka"
+  },
+  {
+    "Day": 68,
+    "Date": "2019-06-20T23:00:00.000Z",
+    "DayFrom": "TINSANG KEWA",
+    "DayTo": "MANDRE",
+    "Leg": 53,
+    "LegFrom": "Rupthang Kharka",
+    "LegTo": "Sano Jyandan",
+    "Notes": "Navigation disaster. Missed the path and ended up in the wrong valley. Ttack is significantly off trail."
+  },
+  {
+    "Day": 69,
+    "Date": "2019-06-21T23:00:00.000Z",
+    "DayFrom": "MANDRE",
+    "DayTo": "LAST RESORT",
+    "Leg": 54,
+    "LegFrom": "Sano Jyandan",
+    "LegTo": "The Last Resort",
+    "Notes": "Navigation disaster. Missed the path and ended up in the wrong valley. Ttack is significantly off trail."
+  },
+  {
+    "Day": 71,
+    "Date": "2019-06-23T23:00:00.000Z",
+    "DayFrom": "LAST RESORT",
+    "DayTo": "CHAGAM",
+    "Leg": 55,
+    "LegFrom": "The Last Resort",
+    "LegTo": "Shotang Kharka",
+    "Notes": "Took the lower path and stayed at Chagam instead of Shotang Kharka."
+  },
+  {
+    "Day": 72,
+    "Date": "2019-06-24T23:00:00.000Z",
+    "DayFrom": "CHAGAM",
+    "DayTo": "KYANSIN",
+    "Leg": 56,
+    "LegFrom": "Shotang Kharka",
+    "LegTo": "Kyansin",
+    "Notes": "Took the lower path and stayed at Chagam instead of Shotang Kharka."
+  },
+  {
+    "Day": 73,
+    "Date": "2019-06-25T23:00:00.000Z",
+    "DayFrom": "KYANSIN",
+    "DayTo": "THEPU",
+    "Leg": 57,
+    "LegFrom": "Kyansin",
+    "LegTo": "Tembathang",
+    "Notes": "Thepu is a little further on than Tembathang."
+  },
+  {
+    "Day": 74,
+    "Date": "2019-06-26T23:00:00.000Z",
+    "DayFrom": "THEPU",
+    "DayTo": "KHARKA",
+    "Leg": 58,
+    "LegFrom": "Tembathang",
+    "LegTo": "Panch Pokhari",
+    "Notes": "Didn't manage to get to Panch Pokhari in one day, so days 74 and 75 = leg 58"
+  },
+  {
+    "Day": 75,
+    "Date": "2019-06-27T23:00:00.000Z",
+    "DayFrom": "KHARKA",
+    "DayTo": "PANCH POKHARI",
+    "Leg": 58,
+    "LegFrom": "Tembathang",
+    "LegTo": "Panch Pokhari",
+    "Notes": "Didn't manage to get to Panch Pokhari in one day, so days 74 and 75 = leg 58"
+  },
+  {
+    "Day": 76,
+    "Date": "2019-06-28T23:00:00.000Z",
+    "DayFrom": "PANCH POKHARI",
+    "DayTo": "TIN POKHARI",
+    "Leg": 59,
+    "LegFrom": "Panch Pokhari",
+    "LegTo": "Tin Pokhari"
+  },
+  {
+    "Day": 77,
+    "Date": "2019-06-29T23:00:00.000Z",
+    "DayFrom": "TIN POKHARI",
+    "DayTo": "HIGH CAMP SOUTH",
+    "Leg": 60,
+    "LegFrom": "Tin Pokhari",
+    "LegTo": "High South Camp"
+  },
+  {
+    "Day": 78,
+    "Date": "2019-06-30T23:00:00.000Z",
+    "DayFrom": "HIGH CAMP SOUTH",
+    "DayTo": "KHARKA",
+    "Leg": 61,
+    "LegFrom": "High South Camp",
+    "LegTo": "High North Camp (via Tilman's Pass)"
+  },
+  {
+    "Day": 79,
+    "Date": "2019-07-01T23:00:00.000Z",
+    "DayFrom": "KHARKA",
+    "DayTo": "LANGSHISA KHARKA",
+    "Leg": 62,
+    "LegFrom": "High North Camp",
+    "LegTo": "Kyangjin Gompa",
+    "Notes": "River at Langshisha Kharka had no bridge, so stayed ov ernight for water to drop, so days 79 and 80 = leg 62"
+  },
+  {
+    "Day": 80,
+    "Date": "2019-07-02T23:00:00.000Z",
+    "DayFrom": "LANGSHISA KHARKA",
+    "DayTo": "KYANGJIN GOMPA",
+    "Leg": 62,
+    "LegFrom": "High North Camp",
+    "LegTo": "Kyangjin Gompa",
+    "Notes": "River at Langshisha Kharka had no bridge, so stayed ov ernight for water to drop, so days 79 and 80 = leg 62"
+  },
+  {
+    "Day": 82,
+    "Date": "2019-07-04T23:00:00.000Z",
+    "DayFrom": "KYANGJIN GOMPA",
+    "DayTo": "CHANGDAM",
+    "Leg": 63,
+    "LegFrom": "Kyangjin Gompa",
+    "LegTo": "Ghoratabela",
+    "Notes": "Ghoratabela looked like it was completely destroyed by a landslide, so Changdam was a couple of hours further on"
+  },
+  {
+    "Day": 83,
+    "Date": "2019-07-05T23:00:00.000Z",
+    "DayFrom": "CHANGDAM",
+    "DayTo": "SYABRU BESI",
+    "Leg": 64,
+    "LegFrom": "Ghoratabela",
+    "LegTo": "Syabru Besi",
+    "Notes": "Ghoratabela looked like it was completely destroyed by a landslide, so Changdam was a couple of hours further on"
+  },
+  {
+    "Day": 88,
+    "Date": "2019-07-10T23:00:00.000Z",
+    "DayFrom": "SYABRU BESI",
+    "DayTo": "GATLANG",
+    "Leg": 65,
+    "LegFrom": "Syabru Besi",
+    "LegTo": "Gatlang"
+  },
+  {
+    "Day": 89,
+    "Date": "2019-07-11T23:00:00.000Z",
+    "DayFrom": "GATLANG",
+    "DayTo": "SOMDANG",
+    "Leg": 66,
+    "LegFrom": "Gatlang",
+    "LegTo": "Somdang (via Khurpudada Pass)"
+  },
+  {
+    "Day": 90,
+    "Date": "2019-07-12T23:00:00.000Z",
+    "DayFrom": "SOMDANG",
+    "DayTo": "TIPLING",
+    "Leg": 67,
+    "LegFrom": "Somdang",
+    "LegTo": "Tipling (via Pansan Pass)"
+  },
+  {
+    "Day": 91,
+    "Date": "2019-07-13T23:00:00.000Z",
+    "DayFrom": "TIPLING",
+    "DayTo": "BORANG",
+    "Leg": 68,
+    "LegFrom": "Tipling",
+    "LegTo": "Lapagaon",
+    "Notes": "Raining hard so we stopped half way, so days 91 and 92 = leg 68"
+  },
+  {
+    "Day": 92,
+    "Date": "2019-07-14T23:00:00.000Z",
+    "DayFrom": "BORANG",
+    "DayTo": "LAPAGAON",
+    "Leg": 68,
+    "LegFrom": "Tipling",
+    "LegTo": "Lapagaon"
+  },
+  {
+    "Day": 95,
+    "Date": "2019-07-17T23:00:00.000Z",
+    "DayFrom": "LAPAGAON",
+    "DayTo": "MYANGAL KHARKA",
+    "Leg": 69,
+    "LegFrom": "Lapagaon",
+    "LegTo": "Nauban Kharka (via Mangro Bhanjyang)",
+    "Notes": "Got sick so stopped early before the pass."
+  },
+  {
+    "Day": 97,
+    "Date": "2019-07-19T23:00:00.000Z",
+    "DayFrom": "MYANGAL KHARKA",
+    "DayTo": "DHAROT",
+    "Leg": 70,
+    "LegFrom": "Nauban Kharka",
+    "LegTo": "Machhakhla",
+    "Notes": "Navigation disaster. Couldn't find the shortcut to Yarsa / Machhakhla, so ended up going completely different direction and stayed at Dharot. So days 97, 98 and 100 = leg 70, but tracks won't match up at all."
+  },
+  {
+    "Day": 98,
+    "Date": "2019-07-20T23:00:00.000Z",
+    "DayFrom": "DHAROT",
+    "DayTo": "KASHIGAUN",
+    "Leg": 70,
+    "LegFrom": "Nauban Kharka",
+    "LegTo": "Machhakhla",
+    "Notes": "Navigation disaster. Couldn't find the shortcut to Yarsa / Machhakhla, so ended up going completely different direction and stayed at Dharot. So days 97, 98 and 100 = leg 70, but tracks won't match up at all."
+  },
+  {
+    "Day": 100,
+    "Date": "2019-07-22T23:00:00.000Z",
+    "DayFrom": "KASHIGAUN",
+    "DayTo": "KHORLABESI",
+    "Leg": 70,
+    "LegFrom": "Nauban Kharka",
+    "LegTo": "Machhakhla",
+    "Notes": "Navigation disaster. Couldn't find the shortcut to Yarsa / Machhakhla, so ended up going completely different direction and stayed at Dharot. So days 97, 98 and 100 = leg 70, but tracks won't match up at all."
+  },
+  {
+    "Day": 101,
+    "Date": "2019-07-23T23:00:00.000Z",
+    "DayFrom": "KHORLABESI",
+    "DayTo": "JAGAT",
+    "Leg": 71,
+    "LegFrom": "Machhakhla",
+    "LegTo": "Jagat"
+  },
+  {
+    "Day": 103,
+    "Date": "2019-07-25T23:00:00.000Z",
+    "DayFrom": "JAGAT",
+    "Notes": "Detailed by authorities in Jagat while guide was sorted."
+  },
+  {
+    "Day": 104,
+    "Date": "2019-07-26T23:00:00.000Z",
+    "DayFrom": "JAGAT",
+    "DayTo": "DENG",
+    "Leg": 72,
+    "LegFrom": "Jagat",
+    "LegTo": "Deng"
+  },
+  {
+    "Day": 105,
+    "Date": "2019-07-27T23:00:00.000Z",
+    "DayFrom": "DENG",
+    "DayTo": "NAMRUNG",
+    "Leg": 73,
+    "LegFrom": "Deng",
+    "LegTo": "Namrung"
+  },
+  {
+    "Day": 106,
+    "Date": "2019-07-28T23:00:00.000Z",
+    "DayFrom": "NAMRUNG",
+    "DayTo": "SAMA",
+    "Leg": 74,
+    "LegFrom": "Namrung",
+    "LegTo": "Sama"
+  },
+  {
+    "Day": 107,
+    "Date": "2019-07-29T23:00:00.000Z",
+    "DayFrom": "SAMA",
+    "DayTo": "SAMDO",
+    "Leg": 75,
+    "LegFrom": "Sama",
+    "LegTo": "Dharmasala",
+    "Notes": "Stopped at Samdo (before Dharmasala)"
+  },
+  {
+    "Day": 108,
+    "Date": "2019-07-30T23:00:00.000Z",
+    "DayFrom": "SAMDO",
+    "DayTo": "BIMTANG",
+    "Leg": 76,
+    "LegFrom": "Dharmasala",
+    "LegTo": "Bimtang (via Larkya La)"
+  },
+  {
+    "Day": 109,
+    "Date": "2019-07-31T23:00:00.000Z",
+    "DayFrom": "BIMTANG",
+    "DayTo": "TILCHE",
+    "Leg": 77,
+    "LegFrom": "Bimtang",
+    "LegTo": "Dharapani",
+    "Notes": "Tilche is just before Dharapani"
+  },
+  {
+    "Day": 110,
+    "Date": "2019-08-01T23:00:00.000Z",
+    "DayFrom": "TILCHE",
+    "DayTo": "TIMANG",
+    "Leg": 78,
+    "LegFrom": "Dharapani",
+    "LegTo": "Chame",
+    "Notes": "Timang is between Dharapani and Chame"
+  },
+  {
+    "Day": 111,
+    "Date": "2019-08-02T23:00:00.000Z",
+    "DayFrom": "TIMANG",
+    "DayTo": "BRATANG",
+    "Leg": 79,
+    "LegFrom": "Chame",
+    "LegTo": "Pisang",
+    "Notes": "Bratang is between Chame and Pisang"
+  },
+  {
+    "Day": 112,
+    "Date": "2019-08-03T23:00:00.000Z",
+    "DayFrom": "BRATANG",
+    "DayTo": "UPPER PISANG",
+    "Leg": 79,
+    "LegFrom": "Chame",
+    "LegTo": "Pisang"
+  },
+  {
+    "Day": 113,
+    "Date": "2019-08-04T23:00:00.000Z",
+    "DayFrom": "UPPER PISANG",
+    "DayTo": "MANANG",
+    "Leg": 80,
+    "LegFrom": "Pisang",
+    "LegTo": "Manang"
+  },
+  {
+    "Leg": 81,
+    "LegFrom": "Manang",
+    "LegTo": "Thorong Phedi",
+    "Notes": "Diversion, went to Tilicho Lake - Mesokanto La - Jomsom - Kagbeni instead of Thorung La"
+  },
+  {
+    "Leg": 82,
+    "LegFrom": "Thorong Phedi",
+    "LegTo": "Muktinath (via Thorung La)",
+    "Notes": "Diversion, went to Tilicho Lake - Mesokanto La - Jomsom - Kagbeni instead of Thorung La"
+  },
+  {
+    "Leg": 83,
+    "LegFrom": "Muktinath",
+    "LegTo": "Kagbeni",
+    "Notes": "Diversion, went to Tilicho Lake - Mesokanto La - Jomsom - Kagbeni instead of Thorung La"
+  },
+  {
+    "Day": 115,
+    "Date": "2019-08-06T23:00:00.000Z",
+    "DayFrom": "MANANG",
+    "DayTo": "TILICHO LAKE BASE CAMP",
+    "Notes": "Diversion, went to Tilicho Lake - Mesokanto La - Jomsom - Kagbeni instead of Thorung La"
+  },
+  {
+    "Day": 116,
+    "Date": "2019-08-07T23:00:00.000Z",
+    "DayFrom": "TILICHO LAKE BASE CAMP",
+    "DayTo": "TILICHO LAKE VIEWPOINT",
+    "Notes": "Diversion, went to Tilicho Lake - Mesokanto La - Jomsom - Kagbeni instead of Thorung La"
+  },
+  {
+    "Day": 117,
+    "Date": "2019-08-08T23:00:00.000Z",
+    "DayFrom": "TILICHO LAKE VIEWPOINT",
+    "DayTo": "NAMU KHARKA",
+    "Notes": "Diversion, went to Tilicho Lake - Mesokanto La - Jomsom - Kagbeni instead of Thorung La"
+  },
+  {
+    "Day": 118,
+    "Date": "2019-08-09T23:00:00.000Z",
+    "DayFrom": "NAMU KHARKA",
+    "DayTo": "KAGBENI",
+    "Notes": "Diversion, went to Tilicho Lake - Mesokanto La - Jomsom - Kagbeni instead of Thorung La"
+  },
+  {
+    "Day": 120,
+    "Date": "2019-08-11T23:00:00.000Z",
+    "DayFrom": "KAGBENI",
+    "DayTo": "SANTA",
+    "Leg": 84,
+    "LegFrom": "Kagbeni",
+    "LegTo": "Santa (via Bhima Lojun La)"
+  },
+  {
+    "Day": 121,
+    "Date": "2019-08-12T23:00:00.000Z",
+    "DayFrom": "SANTA",
+    "DayTo": "GHALDEN GHULDUN KHOLA",
+    "Leg": 85,
+    "LegFrom": "Santa",
+    "LegTo": "Ghalden Ghuldun Khola Camp"
+  },
+  {
+    "Day": 122,
+    "Date": "2019-08-13T23:00:00.000Z",
+    "DayFrom": "GHALDEN GHULDUN KHOLA",
+    "DayTo": "SANGDA PHEDI",
+    "Leg": 86,
+    "LegFrom": "Ghalden Ghuldun Khola Camp",
+    "LegTo": "Nulungsumda Kharka (via Jungben La)",
+    "Notes": "Stopped overnight in a shelter at Sangda Phedi before Jungben La"
+  },
+  {
+    "Day": 123,
+    "Date": "2019-08-14T23:00:00.000Z",
+    "DayFrom": "SANGDA PHEDI",
+    "DayTo": "YALKU KHOLA KHARKA",
+    "Leg": 86,
+    "LegFrom": "Ghalden Ghuldun Khola Camp",
+    "LegTo": "Nulungsumda Kharka (via Jungben La)",
+    "Notes": "Navigation disaster. Trail impossible so we hiked up the Yalku Khola. Big mistake. Took two days of off-trail navigation, a lot of luck and some very dangerous trails to get to a bridge at Thumer."
+  },
+  {
+    "Leg": 87,
+    "LegFrom": "Nulungsumda Kharka",
+    "LegTo": "Chharka Bhot",
+    "Notes": "Navigation disaster. Trail impossible so we hiked up the Yalku Khola. Big mistake. Took two days of off-trail navigation, a lot of luck and some very dangerous trails to get to a bridge at Thumer."
+  },
+  {
+    "Leg": 88,
+    "LegFrom": "Chharka Bhot",
+    "LegTo": "Chap Chu",
+    "Notes": "Navigation disaster. Trail impossible so we hiked up the Yalku Khola. Big mistake. Took two days of off-trail navigation, a lot of luck and some very dangerous trails to get to a bridge at Thumer."
+  },
+  {
+    "Day": 124,
+    "Date": "2019-08-15T23:00:00.000Z",
+    "DayFrom": "YALKU KHOLA KHARKA",
+    "DayTo": "SIPALUN KHARKA",
+    "Notes": "Navigation disaster. Trail impossible so we hiked up the Yalku Khola. Big mistake. Took two days of off-trail navigation, a lot of luck and some very dangerous trails to get to a bridge at Thumer."
+  },
+  {
+    "Day": 125,
+    "Date": "2019-08-16T23:00:00.000Z",
+    "DayFrom": "SIPALUN KHARKA",
+    "DayTo": "THINMER",
+    "Notes": "Navigation disaster. Trail impossible so we hiked up the Yalku Khola. Big mistake. Took two days of off-trail navigation, a lot of luck and some very dangerous trails to get to a bridge at Thumer."
+  },
+  {
+    "Day": 126,
+    "Date": "2019-08-17T23:00:00.000Z",
+    "DayFrom": "THINMER",
+    "DayTo": "CHAP CHU",
+    "Notes": "Navigation disaster. Trail impossible so we hiked up the Yalku Khola. Big mistake. Took two days of off-trail navigation, a lot of luck and some very dangerous trails to get to a bridge at Thumer."
+  },
+  {
+    "Day": 127,
+    "Date": "2019-08-18T23:00:00.000Z",
+    "DayFrom": "CHAP CHU",
+    "DayTo": "DHO TARAP",
+    "Leg": 89,
+    "LegFrom": "Chap Chu",
+    "LegTo": "Dho Tarap (via Chan La)"
+  },
+  {
+    "Day": 129,
+    "Date": "2019-08-20T23:00:00.000Z",
+    "DayFrom": "DHO TARAP",
+    "DayTo": "DANIGAR",
+    "Leg": 90,
+    "LegFrom": "Dho Tarap",
+    "LegTo": "Danigar (via Numa La)"
+  },
+  {
+    "Day": 130,
+    "Date": "2019-08-21T23:00:00.000Z",
+    "DayFrom": "DANIGAR",
+    "DayTo": "RINGMO",
+    "Leg": 91,
+    "LegFrom": "Danigar",
+    "LegTo": "Ringmo (via Baga La)"
+  },
+  {
+    "Day": 131,
+    "Date": "2019-08-22T23:00:00.000Z",
+    "DayFrom": "RINGMO",
+    "DayTo": "PHOKSUNDO KHOLA CAMP",
+    "Leg": 92,
+    "LegFrom": "Ringmo/Phoksundo Lake",
+    "LegTo": "Phoksundo Khola Camp"
+  },
+  {
+    "Day": 132,
+    "Date": "2019-08-23T23:00:00.000Z",
+    "DayFrom": "PHOKSUNDO KHOLA CAMP",
+    "DayTo": "PASS CAMP",
+    "Leg": 93,
+    "LegFrom": "Phoksundo Khola Camp",
+    "LegTo": "Pass Camp"
+  },
+  {
+    "Day": 133,
+    "Date": "2019-08-24T23:00:00.000Z",
+    "DayFrom": "PASS CAMP",
+    "DayTo": "SHEY GOMPA",
+    "Leg": 94,
+    "LegFrom": "Pass Camp",
+    "LegTo": "Shey Gompa (via Nagdala La)"
+  },
+  {
+    "Day": 134,
+    "Date": "2019-08-25T23:00:00.000Z",
+    "DayFrom": "SHEY GOMPA",
+    "DayTo": "BHIJER",
+    "Leg": 95,
+    "LegFrom": "Shey Gompa",
+    "LegTo": "Bhijer"
+  },
+  {
+    "Day": 136,
+    "Date": "2019-08-27T23:00:00.000Z",
+    "DayFrom": "BHIJER",
+    "DayTo": "PHO",
+    "Leg": 96,
+    "LegFrom": "Bhijer",
+    "LegTo": "Pho (via Yambur La)"
+  },
+  {
+    "Day": 137,
+    "Date": "2019-08-28T23:00:00.000Z",
+    "DayFrom": "PHO",
+    "DayTo": "PHUNG KHARKA",
+    "Leg": 97,
+    "LegFrom": "Pho",
+    "LegTo": "Pung Kharka (via Nyingma Gyanzen La)"
+  },
+  {
+    "Day": 138,
+    "Date": "2019-08-29T23:00:00.000Z",
+    "DayFrom": "PHUNG KHARKA",
+    "DayTo": "CHYANDI KHOLA",
+    "Leg": 98,
+    "LegFrom": "Pung Kharka",
+    "LegTo": "Chyandi Khola (via Yala La)"
+  },
+  {
+    "Day": 139,
+    "Date": "2019-08-30T23:00:00.000Z",
+    "DayFrom": "CHYANDI KHOLA",
+    "DayTo": "KAITPUCHONAM KHOLA",
+    "Leg": 99,
+    "LegFrom": "Chyandi Khola",
+    "LegTo": "Takla Khola",
+    "Notes": "Disaster. Very dangerous situation. Camped early. So days 139 and 140 = leg 99"
+  },
+  {
+    "Day": 140,
+    "Date": "2019-08-31T23:00:00.000Z",
+    "DayFrom": "KAITPUCHONAM KHOLA",
+    "DayTo": "TAKLA KHOLA",
+    "Leg": 99,
+    "LegFrom": "Chyandi Khola",
+    "LegTo": "Takla Khola"
+  },
+  {
+    "Day": 141,
+    "Date": "2019-09-01T23:00:00.000Z",
+    "DayFrom": "TAKLA KHOLA",
+    "DayTo": "THAJUCHAUR",
+    "Leg": 100,
+    "LegFrom": "Takla Khola",
+    "LegTo": "Thajuchaur"
+  },
+  {
+    "Day": 142,
+    "Date": "2019-09-02T23:00:00.000Z",
+    "DayFrom": "THAJUCHAUR",
+    "DayTo": "CHHEWATHAN",
+    "Leg": 101,
+    "LegFrom": "Thajuchaur",
+    "LegTo": "Shilenchaura Kharka",
+    "Notes": "Chhewathan is half way from Shilenchaura Kharka to Mangri"
+  },
+  {
+    "Day": 142,
+    "Date": "2019-09-02T23:00:00.000Z",
+    "DayFrom": "THAJUCHAUR",
+    "DayTo": "CHHEWATHAN",
+    "Leg": 102,
+    "LegFrom": "Shilenchaura Kharka",
+    "LegTo": "Mangri",
+    "Notes": "Chhewathan is half way from Shilenchaura Kharka to Mangri"
+  },
+  {
+    "Day": 143,
+    "Date": "2019-09-03T23:00:00.000Z",
+    "DayFrom": "CHHEWATHAN",
+    "DayTo": "GAMGADHI",
+    "Leg": 102,
+    "LegFrom": "Shilenchaura Kharka",
+    "LegTo": "Mangri",
+    "Notes": "Chhewathan is half way from Shilenchaura Kharka to Mangri"
+  },
+  {
+    "Day": 143,
+    "Date": "2019-09-03T23:00:00.000Z",
+    "DayFrom": "CHHEWATHAN",
+    "DayTo": "GAMGADHI",
+    "Leg": 103,
+    "LegFrom": "Mangri",
+    "LegTo": "Gamgadhi",
+    "Notes": "Chhewathan is half way from Shilenchaura Kharka to Mangri"
+  },
+  {
+    "Leg": 104,
+    "LegFrom": "Gamgadhi",
+    "LegTo": "Rara Lake",
+    "Notes": "Skipped Rara lake side trek"
+  },
+  {
+    "Day": 145,
+    "Date": "2019-09-05T23:00:00.000Z",
+    "DayFrom": "GAMGADHI",
+    "DayTo": "DHARKE KHOLA",
+    "Leg": 105,
+    "LegFrom": "Rara Lake",
+    "LegTo": "Bam",
+    "Notes": "Dharke Khola is just after Bam"
+  },
+  {
+    "Day": 146,
+    "Date": "2019-09-06T23:00:00.000Z",
+    "DayFrom": "DHARKE KHOLA",
+    "DayTo": "RIMI",
+    "Leg": 106,
+    "LegFrom": "Bam",
+    "LegTo": "Jogimara",
+    "Notes": "Rimi is just after Jogimera"
+  },
+  {
+    "Day": 147,
+    "Date": "2019-09-07T23:00:00.000Z",
+    "DayFrom": "RIMI",
+    "DayTo": "MELCHAM",
+    "Leg": 107,
+    "LegFrom": "Jogimara",
+    "LegTo": "Piplan",
+    "Notes": "Melcham is just after Piplan"
+  },
+  {
+    "Day": 148,
+    "Date": "2019-09-08T23:00:00.000Z",
+    "DayFrom": "MELCHAM",
+    "DayTo": "PUNKHA KHOLA",
+    "Leg": 108,
+    "LegFrom": "Piplan",
+    "LegTo": "Apsia Lek",
+    "Notes": "Skipped Apsia Lek, so day 148 = legs 108 and 109"
+  },
+  {
+    "Day": 148,
+    "Date": "2019-09-08T23:00:00.000Z",
+    "DayFrom": "MELCHAM",
+    "DayTo": "PUNKHA KHOLA",
+    "Leg": 109,
+    "LegFrom": "Apsia Lek",
+    "LegTo": "Punkha Khola",
+    "Notes": "Skipped Apsia Lek, so day 148 = legs 108 and 109"
+  },
+  {
+    "Day": 149,
+    "Date": "2019-09-09T23:00:00.000Z",
+    "DayFrom": "PUNKHA KHOLA",
+    "DayTo": "RIVER CAMP",
+    "Leg": 110,
+    "LegFrom": "Punkha Khola",
+    "LegTo": "River Camp"
+  },
+  {
+    "Day": 150,
+    "Date": "2019-09-10T23:00:00.000Z",
+    "DayFrom": "RIVER CAMP",
+    "DayTo": "SIMIKOT",
+    "Leg": 111,
+    "LegFrom": "River Camp",
+    "LegTo": "Simikot"
+  },
+  {
+    "Day": 152,
+    "Date": "2019-09-12T23:00:00.000Z",
+    "DayFrom": "SIMIKOT",
+    "DayTo": "SALLI",
+    "Leg": 112,
+    "LegFrom": "Simikot",
+    "LegTo": "Kermi",
+    "Notes": "Salli is just after Kermi"
+  },
+  {
+    "Day": 153,
+    "Date": "2019-09-13T23:00:00.000Z",
+    "DayFrom": "SALLI",
+    "DayTo": "YARI",
+    "Leg": 113,
+    "LegFrom": "Kermi",
+    "LegTo": "Thumkot",
+    "Notes": "Skipped Thumkot so day 153 = legs 113 and 114"
+  },
+  {
+    "Day": 153,
+    "Date": "2019-09-13T23:00:00.000Z",
+    "DayFrom": "SALLI",
+    "DayTo": "YARI",
+    "Leg": 114,
+    "LegFrom": "Thumkot",
+    "LegTo": "Yari"
+  },
+  {
+    "Day": 154,
+    "Date": "2019-09-14T23:00:00.000Z",
+    "DayFrom": "YARI",
+    "DayTo": "HILSA",
+    "Leg": 115,
+    "LegFrom": "Yari",
+    "LegTo": "Hilsa (via Nara La)"
+  }
+]
